@@ -1,0 +1,11 @@
+# Obsidian local workspace state
+.obsidian/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
