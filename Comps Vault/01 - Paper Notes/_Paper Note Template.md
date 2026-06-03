@@ -27,13 +27,23 @@ updated:
 This paper shows that ___ using ___, and the main contribution is ___.
 
 ## 2. Exam-Ready Abstract
-Write 5 to 7 sentences covering the question, importance, data, method, result, and contribution.
+Write 5 to 7 sentences covering the research question, setting, shock or variation, data, method, main result, contribution, and the literature where this paper belongs. End with how the paper connects to 2 to 4 Obsidian-linked literatures, such as [[Capital Structure]], [[Financial Flexibility]], or [[Bank Runs and Deposit Insurance]].
 
 ## 3. Research Question
 What is the paper trying to answer?
 
+More specifically: what mechanism, heterogeneity, or causal channel does the paper test?
+
 ## 4. Core Mechanism
-Shock or treatment -> mechanism -> outcome
+Use a chain that can be memorized for comps:
+
+```text
+Shock or treatment
+-> immediate economic effect
+-> mechanism or constraint
+-> firm, investor, household, or bank response
+-> final outcome
+```
 
 ## 5. Main Findings
 1.
@@ -53,7 +63,7 @@ Shock or treatment -> mechanism -> outcome
 ## 7. Identification Strategy
 
 ### Endogeneity Problem
-Discuss selection, omitted variables, reverse causality, simultaneity, measurement error, or equilibrium sorting.
+Discuss the main reason a simple correlation would not be causal. Cover selection, omitted variables, reverse causality, simultaneity, measurement error, or equilibrium sorting where relevant.
 
 ### Identification Approach
 - Natural experiment:
@@ -64,6 +74,7 @@ Discuss selection, omitted variables, reverse causality, simultaneity, measureme
 - Matching:
 - Placebo tests:
 - Robustness:
+- Alternative source of variation:
 
 ### Is the Identification Convincing?
 - Strength:
@@ -78,6 +89,20 @@ Outcome_it = beta Treatment_it + Controls_it + Firm FE + Time FE + epsilon_it
 
 Explain the equation in words.
 
+If the paper has heterogeneity, triple differences, event-time coefficients, or a model extension, add the second key equation:
+
+```text
+Outcome_it =
+  beta1 Treatment_i x Post_t
++ beta2 Treatment_i x Post_t x Heterogeneity_i
++ Controls_it
++ Firm FE
++ Time FE
++ epsilon_it
+```
+
+Explain what each beta means and which coefficient carries the paper's main economic interpretation.
+
 ## 9. Contribution to the Literature
 This paper contributes to:
 1.
@@ -90,6 +115,8 @@ It differs from prior work because:
 - [[Paper 1]]:
 - [[Paper 2]]:
 - [[Paper 3]]:
+- [[Paper 4]]:
+- [[Paper 5]]:
 
 ## 11. How This Paper Could Appear on Comps
 Possible exam question:
@@ -102,6 +129,7 @@ How to use this paper:
 - Identification:
 - Limitation:
 - Connection to other papers:
+- Best exam phrase:
 
 ## 12. Hypotheses Inspired by This Paper
 H1:
@@ -131,6 +159,8 @@ Reject / R&R / Accept, because ___.
 -
 -
 -
+-
+-
 
 ## 16. Comps Use Rating
 | Category | Rating |
@@ -140,3 +170,6 @@ Reject / R&R / Accept, because ___.
 | Good for synthesis? | High/Medium/Low |
 | Good for research design question? | High/Medium/Low |
 | Good for critique/referee question? | High/Medium/Low |
+
+## 17. Comps Use
+Deploy this paper when asked about [[Literature 1]], [[Literature 2]], [[Method 1]], or [[Dataset 1]]. The clean exam answer is: "[Author and year] use ___ as ___ and show that ___." Use it to argue that ___. In a critique answer, emphasize ___, but note that the paper is stronger than a standard correlation because ___.
