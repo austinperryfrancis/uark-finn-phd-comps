@@ -15,33 +15,14 @@ Rules:
 - Do not invent details. If something is missing, say "Not clear from provided text."
 - End with a "Comps Use" section that tells me exactly how to deploy this paper in an exam answer.
 - Avoid em dashes.
+- When creating tags, always use "#" in front of the word like this: #corporate-finance.
+- Use the citation as the note title and first heading, like this: Friedrich and Zator 2023.
 
 Output in Markdown.
 
----
-type: paper
-status: unread
-title:
-authors:
-year:
-journal:
-seminar:
-field:
-literature:
-methods:
-datasets:
-identification:
-main_result:
-exam_relevance: medium
-must_memorize: false
-tags:
-  - paper
-  - comps
-created:
-updated:
----
 
-# {{Title}}
+
+# {{Citation}}
 
 ## 1. One-Sentence Takeaway
 This paper shows that ___ using ___, and the main contribution is ___.
@@ -193,3 +174,28 @@ Reject / R&R / Accept, because ___.
 
 ## 17. Comps Use
 Deploy this paper when asked about [[Literature 1]], [[Literature 2]], [[Method 1]], or [[Dataset 1]]. The clean exam answer is: "[Author and year] use ___ as ___ and show that ___." Use it to argue that ___. In a critique answer, emphasize ___, but note that the paper is stronger than a standard correlation because ___.
+
+
+
+---
+type: paper
+status: unread
+title:
+authors:
+year:
+journal:
+seminar:
+field:
+literature:
+methods:
+datasets:
+identification:
+main_result:
+exam_relevance: medium
+must_memorize: false
+tags:
+  - #paper
+  - #comps
+created:
+updated:
+---
