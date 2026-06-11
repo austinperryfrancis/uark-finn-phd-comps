@@ -1,0 +1,9 @@
+**Summary**  
+This study investigates how boards of directors' monitoring effectiveness is influenced by "co-opted" directors—those appointed after the CEO assumed office. The authors introduce two measures: *Co-option* (proportion of directors appointed post-CEO) and *Non-Co-opted Independence* (independent directors appointed pre-CEO). Using data from S&P 1500 firms (1996–2010), they find that higher Co-option correlates with weaker oversight: CEO turnover sensitivity to poor performance declines by ~67% per standard deviation increase in Co-option, CEO pay rises (22.3% higher when moving from 0 to full Co-option), and investment increases, with no corresponding improvement in pay-performance alignment. Traditional board independence metrics are less predictive, as co-opted independent directors behave akin to non-independent ones.  
+
+Non-Co-opted Independence outperforms conventional measures, linking to stronger monitoring (e.g., higher turnover-performance sensitivity and lower pay). Robustness checks using tenure-weighted co-option and residuals from CEO tenure regressions confirm results. Endogeneity concerns are addressed via post-Sarbanes-Oxley regulatory changes, which exogenously increased board independence (and thus Co-option) in non-compliant firms, reinforcing causality.  
+
+**Key Takeaways**  
+- **Reduced Monitoring:** A one-standard-deviation increase in Co-option decreases CEO turnover-performance sensitivity by approximately two-thirds (coefficient: 2.021***), indicating weaker accountability.  
+- **Higher CEO Pay:** Co-option correlates with a 22.3% rise in CEO pay (coefficient: 0.223***) without commensurate increases in pay-performance sensitivity.  
+- **Increased Investment:** Co-opted boards are associated with higher capital expenditure (coefficient: 0.005**), suggesting CEOs pursue growth aligned with personal preferences over shareholder value.

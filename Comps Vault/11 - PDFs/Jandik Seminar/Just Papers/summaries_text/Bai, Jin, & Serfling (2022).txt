@@ -1,0 +1,9 @@
+**Summary:**  
+This study examines how mergers and acquisitions (M&A) drive value through the adoption of structured management practices. Using U.S. Census data from 37,000 manufacturing establishments, the authors find that firms with more formalized management practices (e.g., specific performance metrics, explicit incentives) are likelier to acquire targets with less structured practices. Post-acquisition, target establishments adopt the acquirer’s management practices, increasing their management scores by 0.025 on a normalized scale (17.2% of a standard deviation). These changes are most pronounced when acquirers have strong management expertise, centralized decision-making, or operate in competitive industries, and they lead to convergence between target and acquirer practices.  
+
+The adoption of structured practices correlates with significant performance improvements: a one-standard-deviation increase in management scores post-acquisition boosts productivity by 3.3% and value-added metrics by 3–4%. Results are robust to controls for pre-existing trends and alternative explanations, including tests using withdrawn M&A deals as a control group. The findings highlight structured management practices as a key driver of M&A synergies.  
+
+**Key Takeaways:**  
+- **Acquirers target less structured firms:** Firms with higher management scores (more structured practices) are 7.5% more likely to become acquirers and tend to acquire targets with lower scores (coefficient: 0.0573 for acquirer likelihood).  
+- **Post-acquisition management improvements:** Acquired establishments’ management scores increase by 0.025 (p < 0.01), with convergence toward acquirer practices (17% of a standard deviation).  
+- **Performance gains:** A one-standard-deviation increase in management scores post-acquisition raises productivity by 3.3% (coefficient: 0.2507) and value-added per employee by 3.1%, indicating structured practices drive M&A value.

@@ -1,0 +1,12 @@
+**Summary:**  
+This study examines how corporations incorporate tax rates into financial and investment decisions, revealing a prevalent use of the GAAP effective tax rate (ETR) instead of the theoretically optimal marginal tax rate (MTR). Surveying tax executives, the authors find that only 12% of firms use the MTR, while 30% and 26% rely on the ETR and statutory tax rate (STR), respectively. Behavioral factors—such as heuristics (using the STR as a simpler proxy when it closely aligns with the MTR) and salience biases (prioritizing ETR due to its prominence in financial reporting)—drive this discrepancy. Additionally, managers with accounting education are less likely to use the ETR. The economic consequences are significant: using the ETR leads to suboptimal leverage decisions (costing firms an average of $16 million annually, or 0.25% of book value) and reduces investment responsiveness to opportunities. For instance, a 10-percentage-point MTR-ETR gap lowers investment sensitivity to Tobin’s Q by 3.7%, translating to $20 million in forgone investment annually.  
+
+**Key Takeaways:**  
+1. **Misuse of Tax Rates in Decisions**: Most firms use average rates (ETR/STR) instead of MTRs for incremental decisions, influenced by behavioral biases and lack of tax sophistication.  
+   - *Key Coefficient*: Firms with STR usage had MTRs within 2 percentage points of STR 80% of the time, justifying heuristic use.  
+
+2. **Economic Costs of ETR Usage**: Suboptimal capital structure decisions due to ETR-MTR misalignment reduce firm value by 0.25% of assets ($16 million annually).  
+   - *Key Coefficient*: A 1% MTR-ETR gap increased capital structure inefficiency by 0.032% of assets (p < 0.01).  
+
+3. **Investment Sensitivity Decline**: Firms using ETRs exhibit weaker responses to growth opportunities when MTR-ETR differences widen.  
+   - *Key Coefficient*: A 10% MTR-ETR gap reduced investment sensitivity to Tobin’s Q by 0.03 (coefficient = -0.003, p < 0.05), equating to $20 million less investment.

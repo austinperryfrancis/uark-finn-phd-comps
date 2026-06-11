@@ -1,3 +1,26 @@
+---
+type: paper
+status: unread
+title: "Flexibility Costs of Debt: Danish Exporters During the Cartoon Crisis"
+authors: Benjamin U. Friedrich; Michał Zator
+year: 2023
+journal: Journal of Financial Economics
+seminar:
+field: Corporate Finance; International Trade
+literature: Capital structure; financial flexibility; product-market shocks; exporting
+methods: Difference-in-differences; triple differences; event study; loan maturity shock; administrative microdata
+datasets: Danish administrative firm data; Danish Foreign Trade Statistics Register; Accounting Register; Danish Business Register; employer-employee data; loan-level bank data
+identification: Unexpected boycott of Danish products in Muslim countries after 2005 Muhammad cartoon publication
+main_result: Low-leverage firms redirect sales to new non-Muslim product-destination markets and offset the demand shock, while high-leverage firms do not expand and instead downsize.
+exam_relevance: high
+must_memorize: true
+tags:
+  - DrJandik
+  - corporate-finance
+  - capital-structure
+created: 2026-06-03
+updated: 2026-06-03
+---
 
 
 # Flexibility Costs of Debt: Danish Exporters During the Cartoon Crisis
@@ -168,34 +191,5 @@ R&R leaning accept, because the setting is compelling, the data are unusually ri
 ## 17. Comps Use
 
 Deploy this paper when asked about [[Capital Structure]], [[Financial Flexibility]], [[Financial Constraints]], [[Product Market Competition]], or [[International Trade and Finance]]. The clean exam answer is: “Friedrich and Zator use the Danish cartoon-crisis boycott as an unexpected demand shock and show that low-leverage firms can redirect sales to new product-country markets, while high-leverage firms cannot and instead downsize.” Use it to argue that debt has an ex ante cost: it reduces the option value of future adaptation. In a critique answer, emphasize that leverage is endogenous, but the paper is stronger than a standard leverage-outcome regression because it uses a shock, firm fixed effects, industry-year fixed effects, triple differences, event studies, matching, and debt maturity variation.
-
-
----
-type: paper
-status: unread
-title: "Flexibility Costs of Debt: Danish Exporters During the Cartoon Crisis"
-authors: "Benjamin U. Friedrich; Michał Zator"
-year: 2023
-journal: "Journal of Financial Economics"
-seminar: #DrJandik
-field: "Corporate Finance; International Trade"
-literature: "Capital structure; financial flexibility; product-market shocks; exporting"
-methods: "Difference-in-differences; triple differences; event study; loan maturity shock; administrative microdata"
-datasets: "Danish administrative firm data; Danish Foreign Trade Statistics Register; Accounting Register; Danish Business Register; employer-employee data; loan-level bank data"
-identification: "Unexpected boycott of Danish products in Muslim countries after 2005 Muhammad cartoon publication"
-main_result: "Low-leverage firms redirect sales to new non-Muslim product-destination markets and offset the demand shock, while high-leverage firms do not expand and instead downsize."
-exam_relevance: high
-must_memorize: true
-tags:
-  - #capital-structure
-  - #financial-flexibility
-  - #trade
-  - #exports
-  - #difference-in-differences
-  - #product-market-shocks
-  - #DrJandik 
-  - #corporate-finance 
-created: 2026-06-03
-updated: 2026-06-03
 
 

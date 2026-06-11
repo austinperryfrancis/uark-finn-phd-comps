@@ -1,0 +1,7 @@
+**Summary:**  
+Bebchuk, Cohen, and Ferrell's study identifies six key corporate governance provisions—staggered boards, limits to shareholder bylaw amendments, poison pills, golden parachutes, and supermajority requirements for mergers and charter amendments—that significantly impact firm performance. These provisions form an "entrenchment index" (E index), with higher scores linked to reduced firm valuation (measured by Tobin’s Q) and negative abnormal stock returns from 1990 to 2003. The research reveals a monotonic relationship: each incremental increase in the E index corresponds to economically significant declines in valuation (coefficients ranging from -0.044 to -0.282) and annual abnormal returns of ~7% for low vs. high E index portfolios. In contrast, the remaining 18 IRRC provisions (O index) showed no meaningful correlation, challenging the utility of broad governance indices that include non-critical provisions.
+
+**Key Takeaways:**  
+- **E Index Drives Performance**: The six entrenchment provisions in the E index (e.g., staggered boards, poison pills) reduce firm valuation (Tobin’s Q) with coefficients up to -0.282, highlighting their economic significance.  
+- **Abnormal Returns**: Portfolios with low E index firms outperformed high E index firms by ~7% annually, underscoring market penalties for poor governance.  
+- **Focus Over Breadth**: The 18 other IRRC provisions (O index) lacked explanatory power, advocating for governance metrics centered on the critical six provisions rather than expansive indices.

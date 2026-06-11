@@ -1,0 +1,7 @@
+**Summary:**  
+Barrot and Sauvagnat (2016) investigate how firm-specific shocks propagate through production networks using natural disasters as exogenous shocks. Analyzing U.S. supplier-customer data (1978–2013), they find that a supplier disruption reduces its customers' sales growth by 2–3 percentage points, with effects persisting for several quarters. This impact is amplified when suppliers produce specific inputs, proxied by differentiated goods (Rauch classification), R&D intensity, or patent holdings. Stock prices of affected customers drop by approximately 1% (cumulative abnormal returns), and the shock spills over to other suppliers sharing the same customer, reducing their sales growth by 3.8 percentage points. The results underscore the role of input specificity and network interdependencies in transmitting idiosyncratic shocks.
+
+**Key Takeaways:**  
+- **Sales Growth Decline**: Customers of disrupted suppliers experience a **2–3 percentage point reduction** in sales growth, with effects peaking 3–4 quarters post-disaster.  
+- **Input Specificity Matters**: Propagation is stronger for specific suppliers—**differentiated goods** (coefficients: −3.2% to −5.0%), **high R&D** (−3.9%), and **patent-heavy firms** (−4.0%).  
+- **Spillovers and Value Loss**: Disruptions trigger **1% market value loss** for customers and **3.8 pp sales decline** for related suppliers, highlighting horizontal propagation risks.

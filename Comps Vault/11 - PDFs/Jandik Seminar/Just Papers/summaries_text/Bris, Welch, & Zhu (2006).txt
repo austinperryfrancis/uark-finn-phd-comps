@@ -1,0 +1,15 @@
+**Summary:**  
+The study examines corporate bankruptcies under Chapter 7 (liquidation) and Chapter 11 (reorganization) from 1995–2001 in Arizona and New York. Key findings include:  
+1. **Cost and Duration**: Chapter 7 is not faster or cheaper than Chapter 11. Both procedures take ~2 years on average, with Chapter 11 better preserving asset value (median asset retention of 87% vs. 0–38% in Chapter 7, depending on assumptions).  
+2. **Creditor Recovery**: Secured creditors recover 90% in Chapter 11 vs. 32–51% in Chapter 7. Unsecured creditors recover ~51% in Chapter 11 but near 0% in Chapter 7. Professionals (e.g., attorneys) often consume most assets in Chapter 7.  
+3. **Cost Heterogeneity**: Bankruptcy costs vary widely. Median expenses are 1.9–2.5% of pre-bankruptcy assets but spike to 16.9% (Chapter 11) or 80% (Chapter 7) in extreme cases. Judges rarely reject fee requests (98–99% approved).  
+
+**Key Takeaways**:  
+- **Recovery Rates**:  
+  - Chapter 11 secured creditors: **90% recovery** (median).  
+  - Chapter 11 unsecured creditors: **51% recovery** (mean).  
+  - Chapter 7 unsecured creditors: **<1% recovery** (mean).  
+- **APR Violations**: Occur in **12% of Chapter 11 cases**, favoring unsecured creditors when secured claims are not fully satisfied.  
+- **Scale Matters**: Larger firms in Chapter 11 retain more value (e.g., firms >$10M recover 84% vs. 46% for <$100k firms).  
+
+**Implications**: Chapter 11 is more effective for creditor recovery and asset preservation, while costs and outcomes depend critically on firm size, secured debt structure, and judicial discretion.

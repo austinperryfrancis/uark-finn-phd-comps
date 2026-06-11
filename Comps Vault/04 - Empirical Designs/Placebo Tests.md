@@ -35,8 +35,8 @@ Placebos can be underpowered or selected after seeing results.
 - Report economic magnitudes, not only statistical significance.
 
 ## Good Finance Examples
-- [[Paper 1]] in [[Placebo Tests]]
-- Add seminar-specific examples from [[FINN 6333 Empirical Research in Finance]].
+- 
+- 
 
 ## How to Explain on Comps
 Start with the endogeneity problem, identify the source of variation, state the identifying assumption, then explain why the paper partially satisfies it and where it remains vulnerable.

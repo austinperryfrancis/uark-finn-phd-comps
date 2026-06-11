@@ -15,12 +15,36 @@ Rules:
 - Do not invent details. If something is missing, say "Not clear from provided text."
 - End with a "Comps Use" section that tells me exactly how to deploy this paper in an exam answer.
 - Avoid em dashes.
-- When creating tags, always use "#" in front of the word like this: #corporate-finance.
 - Use the citation as the note title and first heading, like this: Friedrich and Zator 2023.
 
-Output in Markdown.
+When outputting the final Obsidian note, wrap the entire note in quadruple backticks using ````markdown' so that any internal triple-backtick code blocks do not prematurely close the main Markdown block.
 
+Output in a markdown code block, so I can copy and paste it into obsidian.
 
+BEGIN TEMPLATE BELOW:
+
+---
+type: paper
+status: unread
+title:
+authors:
+year:
+journal:
+seminar:
+field:
+literature:
+methods:
+datasets:
+identification:
+main_result:
+exam_relevance: medium
+must_memorize: false
+tags:
+  - tag1
+  - tag2
+created:
+updated:
+---
 
 # {{Citation}}
 
@@ -177,25 +201,7 @@ Deploy this paper when asked about [[Literature 1]], [[Literature 2]], [[Method 
 
 
 
----
-type: paper
-status: unread
-title:
-authors:
-year:
-journal:
-seminar:
-field:
-literature:
-methods:
-datasets:
-identification:
-main_result:
-exam_relevance: medium
-must_memorize: false
-tags:
-  - #paper
-  - #comps
-created:
-updated:
----
+
+
+
+

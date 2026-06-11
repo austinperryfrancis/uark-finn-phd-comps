@@ -1,0 +1,9 @@
+**Summary**  
+This study introduces a novel measure of the economic value of technological innovation by analyzing stock market reactions to patent grants awarded to U.S. firms from 1926 to 2010. The authors estimate patent value using abnormal stock returns around issuance dates, filtering out market noise. They find that this measure positively correlates with future patent citations (a proxy for scientific value), with coefficients ranging from 0.004 to 0.174 depending on controls. The measure also aligns with Schumpeterian growth models: innovative firms experience significant growth (2.5%–4.6% over five years per 1 SD increase in innovation), while competitors face declines (−2.7% to −5.1%), reflecting creative destruction. Aggregating the measure reveals it accounts for medium-term fluctuations in economic growth (1.6%–6.5% output growth) and total factor productivity (0.6%–3.5% TFP growth) over five years.  
+
+Compared to citation-weighted patents, the stock-based measure better predicts firm growth and captures higher creative destruction, underscoring its utility in assessing private economic value. The results highlight innovation’s dual role in driving firm success and industry reallocation, with aggregate effects shaping macroeconomic performance.  
+
+**Key Takeaways**  
+- **New innovation metric**: Combines patent issuance data with stock market reactions, showing a positive link to future citations (coefficients 0.004–0.174).  
+- **Firm-level dynamics**: A one SD increase in innovation boosts firm growth by 2.5%–4.6% over five years but reduces competitors’ growth by 2.7%–5.1%, supporting creative destruction.  
+- **Aggregate impact**: Innovation correlates with 1.6%–6.5% higher output and 0.6%–3.5% higher TFP over five years, outperforming citation-weighted patents in explaining growth.

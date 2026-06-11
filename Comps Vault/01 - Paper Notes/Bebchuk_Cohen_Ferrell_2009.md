@@ -1,3 +1,30 @@
+---
+type: paper
+status: unread
+title: What Matters in Corporate Governance?
+authors: Lucian Bebchuk, Alma Cohen, Allen Ferrell
+year: 2009
+journal: Review of Financial Studies
+seminar:
+field: corporate finance
+literature: corporate governance
+methods: panel regressions, portfolio return tests, firm fixed effects
+datasets: IRRC, Compustat, CRSP, ExecuComp
+identification: observational panel with controls, prior valuation controls, and firm fixed effects
+main_result: Six entrenching governance provisions explain the negative relation between governance restrictions, firm value, and abnormal returns
+exam_relevance: high
+must_memorize: true
+tags:
+  - corporate-finance
+  - corporate-governance
+  - agency-problems
+  - takeovers
+  - firm-value
+  - DrJandik 
+created: 2026-06-03
+updated: 2026-06-03
+---
+
 # Bebchuk, Cohen, and Ferrell 2009
 
 ## 1. One-Sentence Takeaway
@@ -178,31 +205,4 @@ Accept, because the paper makes a major measurement contribution and provides st
 ## 17. Comps Use
 Deploy this paper when asked about [[Corporate Governance]], [[Agency Problems]], [[Takeover Market]], or [[Firm Valuation]]. The clean exam answer is: “Bebchuk, Cohen, and Ferrell use IRRC governance provisions to create a six-provision Entrenchment Index and show that these provisions, rather than the full GIM index, drive the negative relation between governance restrictions, Tobin’s Q, and abnormal returns.” Use it to argue that governance measurement matters and that broad governance indices can dilute the economically important provisions. In a critique answer, emphasize that the paper is not a clean causal design, but note that it is stronger than a simple correlation because it controls for other governance provisions, examines later valuation conditional on 1990 valuation, and uses firm fixed effects.
 
----
-type: paper
-status: unread
-title: What Matters in Corporate Governance?
-authors: Lucian Bebchuk, Alma Cohen, Allen Ferrell
-year: 2009
-journal: Review of Financial Studies
-seminar:
-field: corporate finance
-literature: corporate governance
-methods: panel regressions, portfolio return tests, firm fixed effects
-datasets: IRRC, Compustat, CRSP, ExecuComp
-identification: observational panel with controls, prior valuation controls, and firm fixed effects
-main_result: Six entrenching governance provisions explain the negative relation between governance restrictions, firm value, and abnormal returns
-exam_relevance: high
-must_memorize: true
-tags:
-  - #paper
-  - #comps
-  - #corporate-finance
-  - #corporate-governance
-  - #agency-problems
-  - #takeovers
-  - #firm-value
-  - #DrJandik 
-created: 2026-06-03
-updated: 2026-06-03
----
+

@@ -1,0 +1,7 @@
+**Summary**  
+The study investigates how strategic business groups, prevalent in global markets, influence international asset pricing. Business groups protect core "central firms" during economic downturns by reallocating risks to peripheral firms, creating co-movement among central firms and introducing an intertemporal risk factor. Using global ownership data (2002–2012), the authors measure firm "centrality" as the proportion of group value lost if the firm is removed. Central firms exhibit lower sensitivity to negative shocks (e.g., industry downturns, sovereign downgrades) and earn 12–14 basis points lower monthly returns per standard deviation increase in centrality. A portfolio strategy long on central firms and short on peripheral ones yields significant risk-adjusted spreads (36–67 basis points monthly). The centrality factor enhances traditional asset pricing models, particularly in explaining cross-sectional returns, as validated by Bayesian and Sharpe ratio tests.
+
+**Key Takeaways**  
+- **Centrality and Returns**: A one standard deviation increase in centrality reduces monthly returns by 12–14 basis points (Fama-MacBeth regressions).  
+- **Portfolio Performance**: High-centrality firms underperform low-centrality peers by 36–67 basis points monthly after adjusting for traditional risk factors.  
+- **Model Improvement**: The centrality factor significantly augments explanatory power in international asset pricing models, with Bayesian tests favoring its inclusion over alternatives like intermediary risk or volatility factors.

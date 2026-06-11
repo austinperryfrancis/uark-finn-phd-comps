@@ -1,0 +1,7 @@
+**Summary:**  
+This study examines the role of human capital relatedness (HCR) in mergers and acquisitions (M&A). Using occupational data to construct an HCR metric, the authors find that mergers are more likely and generate higher returns when firms share overlapping human capital, particularly in non-overlapping industries or product markets. Post-merger performance improves due to reductions in redundant employment and wages, suggesting enhanced bargaining power to streamline labor costs. A falsification test confirms HCR’s validity: asset sales (where labor isn’t transferred) show no HCR effect on acquirer returns, underscoring human capital’s unique role in M&A synergies. The results highlight HCR as a critical factor in merger decisions, distinct from product-market relatedness.
+
+**Key Takeaways:**  
+- **Human capital relatedness (HCR) drives M&A likelihood and success**: A one standard deviation increase in HCR raises merger probability (coefficients: 0.314–0.834 in probit models) and boosts combined returns by ~42% of the mean synergy.  
+- **Product market overlap weakens HCR benefits**: The interaction term *HCR×PMR* is negative (e.g., −2.615 in synergy regressions), indicating reduced gains when firms operate in similar markets due to dampened innovation incentives.  
+- **Post-merger labor efficiency gains**: High-HCR mergers correlate with significant employment and wage reductions (e.g., −23.66 in employment change models), reflecting strategic elimination of redundancies and cost optimization.
