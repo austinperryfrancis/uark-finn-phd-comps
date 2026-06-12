@@ -9,3 +9,6 @@ desktop.ini
 # Python cache
 __pycache__/
 *.py[cod]
+
+# Local PDF attachments
+Comps Vault/10 - Attachments/PDFs/
