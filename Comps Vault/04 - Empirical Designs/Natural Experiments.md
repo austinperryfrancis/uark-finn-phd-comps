@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Natural Experiments
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Natural Experiments

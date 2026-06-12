@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Payday Lending
 seminar:
-related_methods:
-related_datasets:
+literature: Payday Lending
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Payday Lending

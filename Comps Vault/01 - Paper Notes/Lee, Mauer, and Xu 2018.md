@@ -5,24 +5,42 @@ title: Human capital relatedness and mergers and acquisitions
 authors: Kyeong Hun Lee, David C. Mauer, Emma Qianying Xu
 year: 2018
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 37
+jandik_week: 10
+jandik_topic: 'M&A: sources of synergies'
+jandik_done: false
 field: Corporate Finance
-literature: Mergers and Acquisitions, Human Capital, Labor and Finance, Theory of the Firm
-methods: Probit, OLS, event study, matched nonmerging pairs, falsification test
-datasets: SDC M&A, Compustat, CRSP, Compustat Industry Segment, BLS Occupational Employment Statistics, Hoberg-Phillips product similarity
+literature:
+- '[[Mergers and Acquisitions]]'
+- '[[Labor and Finance]]'
+- Theory of the Firm
+methods:
+- Probit
+- OLS
+- event study
+- matched nonmerging pairs
+- falsification test
+datasets:
+- '[[SDC M&A]]'
+- '[[Compustat]]'
+- '[[CRSP]]'
+- Compustat Industry Segment
+- BLS Occupational Employment Statistics
+- Hoberg-Phillips product similarity
 identification: Matched-pair merger prediction, announcement-return event study, postmerger outcome changes, asset-sale falsification test
 main_result: Mergers are more likely and create more value when acquirer and target human capital profiles are related, especially in diversifying acquisitions.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - mergers-acquisitions
-  - human-capital
-  - labor-finance
-  - theory-of-the-firm
-  - product-market
-  - falsification-test
-  - DrJandik
+- corporate-finance
+- mergers-and-acquisitions
+- human-capital
+- labor-finance
+- theory-of-the-firm
+- product-market
+- falsification-test
 created: 2026-06-12
 updated: 2026-06-12
 ---

@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Mutual Funds and ETFs
 seminar:
-related_methods:
-related_datasets:
+literature: Mutual Funds and ETFs
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Mutual Funds and ETFs

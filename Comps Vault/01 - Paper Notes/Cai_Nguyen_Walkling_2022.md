@@ -1,26 +1,42 @@
 ---
 type: paper
 status: unread
-title: "Director Appointments: It Is Who You Know"
+title: 'Director Appointments: It Is Who You Know'
 authors: Jay Cai, Tu Nguyen, Ralph Walkling
 year: 2022
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 23
+jandik_week: 6
+jandik_topic: Networks in corporate finance
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Governance; Boards of Directors; Social Networks; Director Labor Market
-methods: Logit; Event Study; 2SLS; Instrumental Variables; Shareholder Voting Regressions
-datasets: BoardEx; Compustat; CRSP; RiskMetrics ISS
+literature:
+- '[[Corporate Governance]]'
+- '[[Managerial and Social Networks]]'
+- Director Labor Market
+methods:
+- Logit
+- Event Study
+- 2SLS
+- Instrumental Variables
+- Shareholder Voting Regressions
+datasets:
+- '[[BoardEx]]'
+- '[[Compustat]]'
+- '[[CRSP]]'
+- '[[RiskMetrics]]'
 identification: Death-induced network loss and merger-induced network gain as instruments for connected director appointments
 main_result: Connected directors are much more likely to be appointed, especially when coordination and search costs are high, but CEO-connected appointees are viewed negatively by markets and shareholders.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - boards
-  - director-labor-market
-  - social-networks
-  - instrumental-variables
-  - DrJandik
+- corporate-governance
+- boards
+- director-labor-market
+- social-networks
+- instrumental-variables
 created: 2026-06-04
 updated: 2026-06-04
 ---

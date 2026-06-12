@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Regression Discontinuity
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Regression Discontinuity

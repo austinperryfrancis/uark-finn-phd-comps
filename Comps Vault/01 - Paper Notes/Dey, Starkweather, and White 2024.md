@@ -5,23 +5,44 @@ title: Proxy Advisory Firms and Corporate Shareholder Engagement
 authors: Aiyesha Dey, Austin Starkweather, Joshua T. White
 year: 2024
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 60
+jandik_week: 15
+jandik_topic: Governance
+jandik_done: false
 field: Corporate Finance
-literature: Corporate Governance, Proxy Advisors, Shareholder Engagement, Say-on-Pay
-methods: Regression discontinuity, difference-in-differences, event study, textual analysis, OLS, Poisson
-datasets: ISS Voting Analytics, SEC proxy statements, CRSP, Compustat, ISS Governance, IBES, Thomson Reuters Institutional Holdings
+literature:
+- '[[Corporate Governance]]'
+- Proxy Advisors
+- Shareholder Engagement
+- Say-on-Pay
+methods:
+- Regression discontinuity
+- difference-in-differences
+- event study
+- textual analysis
+- OLS
+- Poisson
+datasets:
+- '[[ISS Voting Analytics]]'
+- SEC proxy statements
+- '[[CRSP]]'
+- '[[Compustat]]'
+- '[[ISS]]'
+- '[[IBES]]'
+- Thomson Reuters Institutional Holdings
 identification: Quasi-natural experiment around ISS's 70 percent say-on-pay support threshold
 main_result: Firms just below ISS's 70 percent say-on-pay threshold sharply increase shareholder engagement, especially where director agency conflicts and ISS sanction threats are stronger.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - proxy-advisors
-  - shareholder-engagement
-  - say-on-pay
-  - regression-discontinuity
-  - board-monitoring
-  - DrJandik
+- corporate-governance
+- proxy-advisors
+- shareholder-engagement
+- say-on-pay
+- regression-discontinuity
+- board-monitoring
 created: 2026-06-12
 updated: 2026-06-12
 ---

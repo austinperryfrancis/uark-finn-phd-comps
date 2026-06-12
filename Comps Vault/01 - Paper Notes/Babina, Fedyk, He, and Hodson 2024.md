@@ -5,38 +5,43 @@ title: Artificial Intelligence, Firm Growth, and Product Innovation
 authors: Tania Babina, Anastassia Fedyk, Alex He, James Hodson
 year: 2024
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 52
+jandik_week: 13
+jandik_topic: Innovation and machine learning
+jandik_done: false
 field: Corporate Finance
 literature:
-  - Technological Change
-  - Artificial Intelligence
-  - Intangible Capital
-  - Innovation
-  - Superstar Firms
+- Technological Change
+- Artificial Intelligence
+- Intangible Capital
+- '[[Innovation]]'
+- Superstar Firms
 methods:
-  - Long differences
-  - Instrumental variables
-  - Textual analysis
-  - Human capital measurement
+- Long differences
+- Instrumental variables
+- Textual analysis
+- Human capital measurement
 datasets:
-  - Cognism resumes
-  - Burning Glass job postings
-  - Compustat
-  - USPTO trademarks
-  - USPTO patents
-  - Hoberg-Phillips product text
+- Cognism resumes
+- Burning Glass job postings
+- '[[Compustat]]'
+- USPTO trademarks
+- '[[Patent Data]]'
+- Hoberg-Phillips product text
 identification: Long differences and IV using firms' ex ante exposure to AI-strong universities
 main_result: Firms that invest more in AI grow faster in sales, employment, and market value, mainly through product innovation rather than productivity gains.
 exam_relevance: high
 must_memorize: true
 tags:
-  - ai
-  - innovation
-  - intangible-capital
-  - firm-growth
-  - superstar-firms
-  - product-innovation
-  - technology-adoption
+- ai
+- innovation
+- intangible-capital
+- firm-growth
+- superstar-firms
+- product-innovation
+- technology-adoption
 created: 2026-06-12
 updated: 2026-06-12
 ---

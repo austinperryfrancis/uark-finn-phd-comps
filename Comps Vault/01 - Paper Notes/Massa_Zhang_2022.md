@@ -5,24 +5,42 @@ title: International Asset Pricing with Strategic Business Groups
 authors: Massimo Massa, James O'Donovan, Hong Zhang
 year: 2022
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 27
+jandik_week: 7
+jandik_topic: Networks, internal capital markets, and diversification
+jandik_done: true
 field: Asset Pricing
-literature: International Asset Pricing; Business Groups; Ownership Structure; Internal Capital Markets
-methods: Fama-MacBeth regressions; portfolio sorts; Bayesian asset pricing tests; Sharpe ratio model comparison; shock sensitivity tests
-datasets: Orbis; Bureau van Dijk; Datastream/Worldscope; Compustat; WRDS FactSet Fundamentals; sovereign ratings
+literature:
+- International Asset Pricing
+- '[[Internal Capital Markets]]'
+- Ownership Structure
+methods:
+- Fama-MacBeth regressions
+- portfolio sorts
+- Bayesian asset pricing tests
+- Sharpe ratio model comparison
+- shock sensitivity tests
+datasets:
+- Orbis
+- Bureau van Dijk
+- Datastream/Worldscope
+- '[[Compustat]]'
+- FactSet Fundamentals
+- sovereign ratings
 identification: Industry shocks, commodity shocks, and sovereign downgrade shocks combined with centrality variation within business groups
 main_result: Central firms in business groups are protected in bad times, earn lower expected returns, and generate a centrality factor that improves international asset pricing models.
 exam_relevance: high
 must_memorize: true
 tags:
-  - international-asset-pricing
-  - business-groups
-  - ownership-structure
-  - internal-capital-markets
-  - risk-sharing
-  - factor-models
-  - DrJandik
-  - corporate-finance
+- international-asset-pricing
+- business-groups
+- ownership-structure
+- internal-capital-markets
+- risk-sharing
+- factor-models
+- corporate-finance
 created: 2026-06-05
 updated: 2026-06-05
 ---

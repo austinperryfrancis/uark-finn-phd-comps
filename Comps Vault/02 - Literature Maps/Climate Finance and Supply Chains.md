@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Climate Finance and Supply Chains
 seminar:
-related_methods:
-related_datasets:
+literature: Climate Finance and Supply Chains
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Climate Finance and Supply Chains

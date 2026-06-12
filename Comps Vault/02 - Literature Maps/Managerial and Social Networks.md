@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Managerial and Social Networks
 seminar:
-related_methods:
-related_datasets:
+literature: Managerial and Social Networks
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Managerial and Social Networks

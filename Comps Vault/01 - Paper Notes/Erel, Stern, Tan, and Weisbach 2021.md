@@ -5,23 +5,39 @@ title: Selecting Directors Using Machine Learning
 authors: Isil Erel, Léa H. Stern, Chenhao Tan, Michael S. Weisbach
 year: 2021
 journal: Review of Financial Studies
+professor: DrJandik
 seminar: Not clear from provided text
+jandik_paper_number: 50
+jandik_week: 13
+jandik_topic: Innovation and machine learning
+jandik_done: false
 field: Corporate Finance
-literature: Corporate Governance, Boards of Directors, Machine Learning in Finance
-methods: Supervised machine learning, out-of-sample prediction, quasi-label validation, event study, SHAP, probit
-datasets: BoardEx, ISS Voting Analytics, director appointment announcements, governance data
+literature:
+- '[[Corporate Governance]]'
+- '[[Machine Learning in Corporate Finance]]'
+methods:
+- Supervised machine learning
+- out-of-sample prediction
+- quasi-label validation
+- event study
+- SHAP
+- probit
+datasets:
+- '[[BoardEx]]'
+- '[[ISS Voting Analytics]]'
+- director appointment announcements
+- governance data
 identification: Out-of-sample prediction plus quasi-label comparison to realistic alternative director candidates
 main_result: Machine learning predicts which directors will perform poorly, and weakly governed firms are more likely to nominate predictably bad directors.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - boards
-  - director-selection
-  - machine-learning
-  - agency
-  - shareholder-voting
-  - DrJandik
+- corporate-governance
+- boards
+- director-selection
+- machine-learning
+- agency
+- shareholder-voting
 created: 2026-06-12
 updated: 2026-06-12
 ---

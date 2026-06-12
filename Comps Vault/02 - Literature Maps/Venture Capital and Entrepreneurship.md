@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Venture Capital and Entrepreneurship
 seminar:
-related_methods:
-related_datasets:
+literature: Venture Capital and Entrepreneurship
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Venture Capital and Entrepreneurship

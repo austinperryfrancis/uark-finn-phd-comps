@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Private Equity
 seminar:
-related_methods:
-related_datasets:
+literature: Private Equity
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Private Equity

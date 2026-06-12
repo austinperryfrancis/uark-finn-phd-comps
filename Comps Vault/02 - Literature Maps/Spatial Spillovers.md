@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Spatial Spillovers
 seminar:
-related_methods:
-related_datasets:
+literature: Spatial Spillovers
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Spatial Spillovers

@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Stochastic Discount Factors
 seminar:
-related_methods:
-related_datasets:
+literature: Stochastic Discount Factors
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Stochastic Discount Factors

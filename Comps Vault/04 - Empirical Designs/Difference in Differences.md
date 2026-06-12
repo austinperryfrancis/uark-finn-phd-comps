@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Difference in Differences
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Difference in Differences

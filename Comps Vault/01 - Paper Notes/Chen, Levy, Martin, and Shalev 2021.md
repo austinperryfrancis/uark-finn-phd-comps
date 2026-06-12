@@ -1,27 +1,46 @@
 ---
 type: paper
 status: unread
-title: "Buying products from whom you know: personal connections and information asymmetry in supply chain relationships"
+title: 'Buying products from whom you know: personal connections and information asymmetry in supply chain relationships'
 authors: Ting Chen, Hagit Levy, Xiumin Martin, Ron Shalev
 year: 2021
 journal: Review of Accounting Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 43
+jandik_week: 11
+jandik_topic: Suppliers and customers
+jandik_done: false
 field: Corporate Finance, Accounting, Supply Chain
-literature: Supply Chain Finance, Social Networks, Information Asymmetry, Contracting
-methods: Mahalanobis matching, linear probability model, Cox hazard model, cross-sectional interaction tests, WLS event study
-datasets: Compustat Segment, BoardEx, Compustat, CRSP, 10-K Wizard, hand-collected procurement contracts
+literature:
+- '[[Customer-Supplier Shock Propagation]]'
+- '[[Managerial and Social Networks]]'
+- Information Asymmetry
+- Contracting
+methods:
+- Mahalanobis matching
+- linear probability model
+- Cox hazard model
+- cross-sectional interaction tests
+- WLS event study
+datasets:
+- Compustat Segment
+- '[[BoardEx]]'
+- '[[Compustat]]'
+- '[[CRSP]]'
+- 10-K Wizard
+- hand-collected procurement contracts
 identification: Predetermined executive education and prior-work connections, matched nonsupplier vendors, customer-year fixed effects, executive departure shock, information-asymmetry heterogeneity
 main_result: Personally connected vendors are more likely to be selected as suppliers, especially when information asymmetry is high.
 exam_relevance: high
 must_memorize: true
 tags:
-  - supply-chain-finance
-  - social-networks
-  - information-asymmetry
-  - contracting
-  - supplier-selection
-  - BoardEx
-  - DrJandik
+- supply-chain-finance
+- social-networks
+- information-asymmetry
+- contracting
+- supplier-selection
+- BoardEx
 created: 2026-06-12
 updated: 2026-06-12
 ---

@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Market Discipline
 seminar:
-related_methods:
-related_datasets:
+literature: Market Discipline
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Market Discipline

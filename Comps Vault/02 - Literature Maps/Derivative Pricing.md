@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Derivative Pricing
 seminar:
-related_methods:
-related_datasets:
+literature: Derivative Pricing
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Derivative Pricing

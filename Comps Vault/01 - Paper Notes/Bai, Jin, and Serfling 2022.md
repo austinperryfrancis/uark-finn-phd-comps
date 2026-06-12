@@ -5,23 +5,40 @@ title: Management Practices and Mergers and Acquisitions
 authors: John (Jianqiu) Bai, Wang Jin, Matthew Serfling
 year: 2022
 journal: Management Science
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 39
+jandik_week: 10
+jandik_topic: 'M&A: sources of synergies'
+jandik_done: false
 field: Corporate Finance
-literature: Mergers and Acquisitions, Management Practices, Organizational Capital, Productivity
-methods: Difference-in-differences in changes, gravity model, OLS, completed versus withdrawn deal comparison, cross-sectional heterogeneity
-datasets: U.S. Census MOPS, LBD, ASM, SDC M&A
+literature:
+- '[[Mergers and Acquisitions]]'
+- Management Practices
+- Organizational Capital
+- Productivity
+methods:
+- Difference-in-differences in changes
+- gravity model
+- OLS
+- completed versus withdrawn deal comparison
+- cross-sectional heterogeneity
+datasets:
+- U.S. Census MOPS
+- LBD
+- ASM
+- '[[SDC M&A]]'
 identification: Establishment ownership changes from 2006 to 2010, management-practice changes from 2005 to 2010, completed versus withdrawn announced deals
 main_result: Acquirers with more structured management practices buy less structured establishments, impose more structured practices after acquisition, and these changes are associated with better establishment performance.
 exam_relevance: high
 must_memorize: true
 tags:
-  - mergers-and-acquisitions
-  - management-practices
-  - organizational-capital
-  - productivity
-  - establishment-data
-  - synergies
-  - DrJandik
+- mergers-and-acquisitions
+- management-practices
+- organizational-capital
+- productivity
+- establishment-data
+- synergies
 created: 2026-06-05
 updated: 2026-06-05
 ---

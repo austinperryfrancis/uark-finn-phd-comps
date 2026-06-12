@@ -5,24 +5,44 @@ title: Supply Chain Climate Exposure
 authors: Greg Hall; Kate Liu; Lukasz Pomorski; Laura Serban
 year: 2023
 journal: Financial Analysts Journal
+professor: DrJandik
 seminar: Not clear from provided text
+jandik_paper_number: 45
+jandik_week: 12
+jandik_topic: Climate finance
+jandik_done: false
 field: Asset Pricing; Climate Finance; Sustainable Finance
-literature: Climate Finance; ESG Measurement; Supply Chain Networks; Carbon Risk
-methods: Measurement; Portfolio Sorts; Event Study; Fama-MacBeth; Factor Regressions
-datasets: Supply chain vendor data; Trucost; MSCI ESG; XpressFeed; MCCC climate news sentiment; Ken French factors; AQR factors
+literature:
+- '[[Climate Finance and Supply Chains]]'
+- ESG Measurement
+- Supply Chain Networks
+- Carbon Risk
+methods:
+- Measurement
+- Portfolio Sorts
+- Event Study
+- Fama-MacBeth
+- Factor Regressions
+datasets:
+- Supply chain vendor data
+- Trucost
+- MSCI ESG
+- XpressFeed
+- MCCC climate news sentiment
+- Ken French factors
+- AQR factors
 identification: Validation using climate news sentiment, climate event studies, industry and country neutral portfolios, and orthogonalization to traditional climate metrics
 main_result: A revenue-weighted measure of customers' climate exposure captures climate-related stock return co-movement and predicts green-minus-brown portfolio performance better than traditional emissions metrics.
 exam_relevance: high
 must_memorize: true
 tags:
-  - climate-finance
-  - esg
-  - supply-chains
-  - asset-pricing
-  - carbon-risk
-  - scope-3
-  - measurement
-  - DrJandik
+- climate-finance
+- esg
+- supply-chains
+- asset-pricing
+- carbon-risk
+- scope-3
+- measurement
 created: 2026-06-12
 updated: 2026-06-12
 ---

@@ -5,28 +5,47 @@ title: External Governance and Debt Structure
 authors: Sreedhar T. Bharath and Michael Hertzel
 year: 2019
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 11
+jandik_week: 3
+jandik_topic: 'Capital structure: bankruptcy, product markets, debt ownership, and debt maturity'
+jandik_done: true
 field: Corporate Finance
-literature: Debt Structure; Corporate Governance; Bank Monitoring; Product Market Competition; Market for Corporate Control
-methods: Difference-in-differences; conditional logit; linear probability model; firm fixed effects; covenant strictness tests
-datasets: DealScan; SDC; Mergent FISD; Compustat; Hoberg-Phillips industry data; U.S. import tariff data; Murfin covenant strictness data
+literature:
+- '[[Capital Structure]]'
+- '[[Corporate Governance]]'
+- Bank Monitoring
+- Product Market Competition
+- '[[Mergers and Acquisitions]]'
+methods:
+- Difference-in-differences
+- conditional logit
+- linear probability model
+- firm fixed effects
+- covenant strictness tests
+datasets:
+- '[[DealScan]]'
+- '[[SDC]]'
+- Mergent FISD
+- '[[Compustat]]'
+- Hoberg-Phillips industry data
+- U.S. import tariff data
+- Murfin covenant strictness data
 identification: Quasi-natural experiments using import tariff reductions and state business combination laws
 main_result: Firms substitute between external governance mechanisms. Stronger product market governance reduces bank debt use, while weaker takeover governance increases bank debt use.
 exam_relevance: high
 must_memorize: true
 tags:
-  - debt-structure
-  - bank-monitoring
-  - corporate-governance
-  - product-market-competition
-  - takeover-market
-  - difference-in-differences
-  - DrJandik
+- debt-structure
+- bank-monitoring
+- corporate-governance
+- product-market-competition
+- takeover-market
+- difference-in-differences
 created: 2026-06-03
 updated: 2026-06-03
 ---
-
-
 
 # Bharath and Hertzel 2019
 

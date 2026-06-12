@@ -1,28 +1,45 @@
 ---
 type: paper
 status: unread
-title: "Cross-Subsidization in Conglomerate Firms: Evidence from Government Spending Shocks"
+title: 'Cross-Subsidization in Conglomerate Firms: Evidence from Government Spending Shocks'
 authors: Darren J. Kisgen; Lei Kong
 year: 2024
 journal: Journal of Financial and Quantitative Analysis
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 31
+jandik_week: 8
+jandik_topic: Internal capital markets and diversification
+jandik_done: true
 field: Corporate Finance
-literature: Internal Capital Markets; Conglomerates; Corporate Diversification; Investment
-methods: Segment-level panel regressions; continuous difference-in-differences; triple differences; matching; instrumental variables
-datasets: Compustat Historical Segments; Compustat Fundamentals Annual; BEA Benchmark Input-Output Accounts; OMB federal spending; County Business Patterns; Compustat customer data
+literature:
+- '[[Internal Capital Markets]]'
+- Investment
+methods:
+- Segment-level panel regressions
+- continuous difference-in-differences
+- triple differences
+- matching
+- instrumental variables
+datasets:
+- Compustat Historical Segments
+- '[[Compustat]]'
+- BEA Benchmark Input-Output Accounts
+- OMB federal spending
+- County Business Patterns
+- Compustat customer data
 identification: Industry government dependence interacted with lagged aggregate nondefense federal spending, plus segment fixed effects, year fixed effects, matched stand-alone firms, and political-party IV
 main_result: Government-dependent segments in conglomerates underreact to positive government spending shocks relative to matched stand-alone firms, while less government-dependent segments inside the same conglomerates invest more when other segments receive positive shocks. This cross-subsidization lowers operating performance and increases the diversification discount.
 exam_relevance: high
 must_memorize: true
 tags:
-  - internal-capital-markets
-  - conglomerates
-  - cross-subsidization
-  - diversification-discount
-  - investment
-  - government-spending
-  - DrJandik
-  - corporate-finance
+- internal-capital-markets
+- conglomerates
+- cross-subsidization
+- diversification-discount
+- investment
+- government-spending
+- corporate-finance
 created: 2026-06-05
 updated: 2026-06-05
 ---

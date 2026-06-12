@@ -1,12 +1,9 @@
 ---
 type: theory-derivation
-topic: Risk Neutral Pricing
 seminar: FINN 60403 Finance Theory
-difficulty:
 tags:
-  - theory
-  - derivation
-  - comps
+topic: Risk Neutral Pricing
+difficulty:
 ---
 
 # Risk Neutral Pricing

@@ -2,18 +2,25 @@
 type: dataset
 dataset: FactSet Revere
 used_in_literatures:
+  - CSR
+  - Supply Chains
+  - Stakeholder Governance
+  - "[[Climate Finance and Supply Chains]]"
+  - Supply Chain Networks
+  - "[[Customer-Supplier Shock Propagation]]"
+  - Physical Climate Risk
+  - Experience-Based Learning
 common_variables:
 tags:
-  - dataset
 ---
 
 # FactSet Revere
 
 ## What It Measures
-Describe the economic objects captured by FactSet Revere.
+Customer-supplier and supply-chain relationships.
 
 ## Unit of Observation
-Firm, security, loan, patent, bank, branch, household, deal, or other unit.
+Firm-pair-period.
 
 ## Common Variables
 - Identifier:
@@ -22,8 +29,8 @@ Firm, security, loan, patent, bank, branch, household, deal, or other unit.
 - Controls:
 
 ## Papers That Use It
-- [[Paper 1]]
-- [[Paper 2]]
+- [[Dai, Liang, and Ng 2021]] - CSR, Supply Chains
+- [[Pankratz and Schiller 2024]] - [[Climate Finance and Supply Chains]], Supply Chain Networks
 
 ## Strengths
 - Coverage:
@@ -36,4 +43,4 @@ Firm, security, loan, patent, bank, branch, household, deal, or other unit.
 - Missing variables:
 
 ## How to Discuss on Comps
-Explain what the data measure, why they are appropriate, and what limitations affect interpretation.
+Use this page to explain what the dataset measures, why it fits the research design, and what limitations affect interpretation.

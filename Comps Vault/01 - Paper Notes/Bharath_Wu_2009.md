@@ -5,23 +5,38 @@ title: Does Asymmetric Information Drive Capital Structure Decisions?
 authors: Sreedhar T. Bharath; Paolo Pasquariello; Guojun Wu
 year: 2009
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 5
+jandik_week: 2
+jandik_topic: 'Capital structure: determinants and targets, taxes, and information asymmetry'
+jandik_done: true
 field: Corporate Finance
-literature: Capital Structure; Pecking Order Theory; Information Asymmetry
-methods: Principal components index; financing deficit regressions; firm fixed effects; two-way sorts
-datasets: COMPUSTAT; CRSP; microstructure adverse selection measures; SEC ORS insider trading data
+literature:
+- '[[Capital Structure]]'
+- Pecking Order Theory
+- Information Asymmetry
+methods:
+- Principal components index
+- financing deficit regressions
+- firm fixed effects
+- two-way sorts
+datasets:
+- '[[Compustat]]'
+- '[[CRSP]]'
+- microstructure adverse selection measures
+- SEC ORS insider trading data
 identification: Cross-sectional conditioning on time-varying adverse selection, not a natural experiment
 main_result: Firms with greater adverse selection fund more of their financing deficits with debt. High adverse selection firms issue about 30 cents more debt per dollar of deficit than low adverse selection firms.
 exam_relevance: high
 must_memorize: true
 tags:
-  - capital-structure
-  - pecking-order
-  - information-asymmetry
-  - adverse-selection
-  - market-microstructure
-  - DrJandik
-  - corporate-finance
+- capital-structure
+- pecking-order
+- information-asymmetry
+- adverse-selection
+- market-microstructure
+- corporate-finance
 created: 2026-06-03
 updated: 2026-06-03
 ---

@@ -1,27 +1,49 @@
 ---
 type: paper
 status: unread
-title: "Measuring Corporate Culture Using Machine Learning"
+title: Measuring Corporate Culture Using Machine Learning
 authors: Kai Li, Feng Mai, Rui Shen, Xinyan Yan
 year: 2020
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 51
+jandik_week: 13
+jandik_topic: Innovation and machine learning
+jandik_done: false
 field: Corporate Finance
-literature: Corporate Culture; Textual Analysis; Machine Learning in Finance; Mergers and Acquisitions
-methods: word2vec; semisupervised machine learning; textual analysis; validation regressions; OLS; LPM; conditional logit
-datasets: Thomson Reuters StreetEvents; Compustat; CRSP; Kogan et al. patent data; KLD; Audit Analytics; SDC M&A
+literature:
+- Corporate Culture
+- Textual Analysis
+- '[[Machine Learning in Corporate Finance]]'
+- '[[Mergers and Acquisitions]]'
+methods:
+- word2vec
+- semisupervised machine learning
+- textual analysis
+- validation regressions
+- OLS
+- LPM
+- conditional logit
+datasets:
+- Thomson Reuters StreetEvents
+- '[[Compustat]]'
+- '[[CRSP]]'
+- '[[Patent Data]]'
+- KLD
+- Audit Analytics
+- '[[SDC M&A]]'
 identification: Measurement validation plus associational outcome tests; crisis and M&A settings provide suggestive but not clean causal evidence
 main_result: Corporate culture can be measured from earnings-call QA text using word embeddings, and strong culture is associated with efficiency, risk-taking, lower earnings management, compensation design, firm value, crisis resilience, and M&A matching.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-culture
-  - textual-analysis
-  - machine-learning
-  - word2vec
-  - earnings-calls
-  - mergers-acquisitions
-  - DrJandik 
+- corporate-culture
+- textual-analysis
+- machine-learning
+- word2vec
+- earnings-calls
+- mergers-and-acquisitions
 created: 2026-06-12
 updated: 2026-06-12
 ---

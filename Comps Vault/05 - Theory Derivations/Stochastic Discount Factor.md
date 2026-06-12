@@ -1,12 +1,9 @@
 ---
 type: theory-derivation
-topic: Stochastic Discount Factor
 seminar: FINN 60403 Finance Theory
-difficulty:
 tags:
-  - theory
-  - derivation
-  - comps
+topic: Stochastic Discount Factor
+difficulty:
 ---
 
 # Stochastic Discount Factor

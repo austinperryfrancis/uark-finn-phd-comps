@@ -5,41 +5,45 @@ title: Innovation Activities and Integration through Vertical Acquisitions
 authors: Laurent Frésard, Gerard Hoberg, Gordon M. Phillips
 year: 2020
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 38
+jandik_week: 10
+jandik_topic: 'M&A: sources of synergies'
+jandik_done: false
 field: Corporate Finance
 literature:
-  - Firm Boundaries
-  - Vertical Integration
-  - Mergers and Acquisitions
-  - Innovation
+- Firm Boundaries
+- Vertical Integration
+- '[[Mergers and Acquisitions]]'
+- '[[Innovation]]'
 methods:
-  - Text analysis
-  - Probit
-  - Matched comparisons
-  - Event study
-  - Heterogeneity tests
+- Text analysis
+- Probit
+- Matched comparisons
+- Event study
+- Heterogeneity tests
 datasets:
-  - Compustat
-  - SEC EDGAR 10-Ks
-  - BEA Input-Output Tables
-  - SDC Platinum
-  - USPTO patents
-  - NBER patent data
-  - Kogan et al. patent data
-  - PatentView
-  - USPTO Patent Assignment Database
+- '[[Compustat]]'
+- SEC EDGAR 10-Ks
+- BEA Input-Output Tables
+- '[[SDC Platinum]]'
+- '[[Patent Data]]'
+- NBER patent data
+- PatentView
+- USPTO Patent Assignment Database
 identification: Observational firm-year acquisition design with controls, year fixed effects, industry-year robustness, matched targets, nonvertical acquisition placebo, mechanism heterogeneity, and event-time evidence around acquisitions.
 main_result: R&D-intensive firms are less likely to be acquired by vertically related buyers, while patent-intensive firms are more likely to be acquired vertically.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - mergers
-  - vertical-integration
-  - firm-boundaries
-  - innovation
-  - patents
-  - text-analysis
+- corporate-finance
+- mergers-and-acquisitions
+- vertical-integration
+- firm-boundaries
+- innovation
+- patents
+- textual-analysis
 created: 2026-06-05
 updated: 2026-06-05
 ---

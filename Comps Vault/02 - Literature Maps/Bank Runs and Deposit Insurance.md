@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Bank Runs and Deposit Insurance
 seminar:
-related_methods:
-related_datasets:
+literature: Bank Runs and Deposit Insurance
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Bank Runs and Deposit Insurance

@@ -1,27 +1,42 @@
 ---
 type: paper
 status: unread
-title: "Understanding the Rise in Corporate Cash: Precautionary Savings or Foreign Taxes"
+title: 'Understanding the Rise in Corporate Cash: Precautionary Savings or Foreign Taxes'
 authors: Michael W. Faulkender, Kristine W. Hankins, Mitchell A. Petersen
 year: 2019
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 18
+jandik_week: 5
+jandik_topic: 'Cash and payouts: cash, dividends, and repurchases'
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Cash Holdings; Corporate Taxes; Multinational Firms; Financial Flexibility
-methods: Panel regressions; decomposition; subsidiary-level analysis; heterogeneity by R&D and related-party sales
-datasets: BEA BE-10 and BE-11 surveys; Compustat; KPMG and Comtax corporate tax rates
+literature:
+- Corporate Cash Holdings
+- Corporate Taxes
+- International Finance
+- Financial Flexibility
+methods:
+- Panel regressions
+- decomposition
+- subsidiary-level analysis
+- heterogeneity by R&D and related-party sales
+datasets:
+- BEA BE-10 and BE-11 surveys
+- '[[Compustat]]'
+- KPMG and Comtax corporate tax rates
 identification: Location of cash across domestic and foreign subsidiaries, effective foreign tax-rate variation, and heterogeneity by R&D and related-party sales
 main_result: The rise in U.S. corporate cash is concentrated in foreign subsidiaries of multinational firms and is mainly explained by foreign tax incentives and income shifting, not precautionary savings.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-cash
-  - tax-avoidance
-  - multinational-firms
-  - income-shifting
-  - financial-flexibility
-  - DrJandik
-  - corporate-finance
+- corporate-cash
+- tax-avoidance
+- multinational-firms
+- income-shifting
+- financial-flexibility
+- corporate-finance
 created: 2026-06-04
 updated: 2026-06-04
 ---

@@ -5,22 +5,41 @@ title: Performance-Induced CEO Turnover
 authors: Dirk Jenter; Katharina Lewellen
 year: 2021
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 56
+jandik_week: 14
+jandik_topic: Governance
+jandik_done: false
 field: Corporate Finance
-literature: CEO Turnover; Corporate Governance; Managerial Incentives; Board Monitoring; Bayesian Learning
-methods: Probit; Two-probit decomposition; Event analysis; Turnover classification
-datasets: ExecuComp; CRSP; Compustat; Factiva; Thomson Reuters 13F; WhaleWisdom 13D; misconduct datasets
+literature:
+- CEO Turnover
+- '[[Corporate Governance]]'
+- Managerial Incentives
+- Bayesian Learning
+methods:
+- Probit
+- Two-probit decomposition
+- Event analysis
+- Turnover classification
+datasets:
+- '[[ExecuComp]]'
+- '[[CRSP]]'
+- '[[Compustat]]'
+- Factiva
+- Thomson Reuters 13F
+- WhaleWisdom 13D
+- misconduct datasets
 identification: Turnover-performance decomposition using high-performance benchmark and two-probit model
 main_result: 38% to 55% of CEO turnovers are performance induced, substantially more than forced-turnover classifications imply.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - ceo-turnover
-  - board-monitoring
-  - managerial-incentives
-  - bayesian-learning
-  - DrJandik
+- corporate-governance
+- ceo-turnover
+- board-monitoring
+- managerial-incentives
+- bayesian-learning
 created: 2026-06-12
 updated: 2026-06-12
 ---

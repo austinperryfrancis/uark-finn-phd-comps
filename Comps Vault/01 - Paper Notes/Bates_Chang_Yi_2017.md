@@ -5,22 +5,38 @@ title: Why Has the Value of Cash Increased Over Time?
 authors: Thomas W. Bates, Ching-Hung Chang, Jianxin Daniel Chi
 year: 2017
 journal: Journal of Financial and Quantitative Analysis
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 17
+jandik_week: 5
+jandik_topic: 'Cash and payouts: cash, dividends, and repurchases'
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Cash Holdings; Financial Flexibility; Financing Frictions
-methods: Valuation regressions; partial adjustment model; cross-sectional heterogeneity; robustness tests
-datasets: CRSP/Compustat; Thomson SDC; Thomson Reuters 13F; FRED corporate bond yields; RiskMetrics
+literature:
+- Corporate Cash Holdings
+- Financial Flexibility
+- Financing Frictions
+methods:
+- Valuation regressions
+- partial adjustment model
+- cross-sectional heterogeneity
+- robustness tests
+datasets:
+- '[[CRSP-Compustat]]'
+- '[[SDC]]'
+- Thomson Reuters 13F
+- FRED corporate bond yields
+- '[[RiskMetrics]]'
 identification: Time-series and cross-sectional variation in firm characteristics and macro-financial conditions
 main_result: The marginal value of corporate cash rose from $0.61 in the 1980s to $1.04 in the 1990s and $1.12 in the 2000s, largely because precautionary motives and financing frictions became more important.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - cash-holdings
-  - financial-flexibility
-  - financing-frictions
-  - capital-structure
-  - DrJandik
+- corporate-finance
+- cash-holdings
+- financial-flexibility
+- financing-frictions
+- capital-structure
 created: 2026-06-04
 updated: 2026-06-04
 ---

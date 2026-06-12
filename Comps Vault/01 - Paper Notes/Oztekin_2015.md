@@ -1,39 +1,41 @@
 ---
 type: paper
 status: unread
-title: "Capital Structure Decisions around the World: Which Factors Are Reliably Important?"
+title: 'Capital Structure Decisions around the World: Which Factors Are Reliably Important?'
 authors: Ozde Oztekin
 year: 2015
 journal: Journal of Financial and Quantitative Analysis
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 7
+jandik_week: 2
+jandik_topic: 'Capital structure: determinants and targets, taxes, and information asymmetry'
+jandik_done: true
 field: Corporate Finance
-literature: Capital Structure
+literature:
+- '[[Capital Structure]]'
 methods:
-  - Dynamic panel GMM
-  - Partial adjustment model
-  - Cross-country institutional analysis
-  - Two-stage regressions
+- Dynamic panel GMM
+- Partial adjustment model
+- Cross-country institutional analysis
+- Two-stage regressions
 datasets:
-  - Compustat Global Vantage
-  - Country-level legal and financial institution indexes
-  - Elkins McSherry debt and equity trading cost data
+- Compustat Global Vantage
+- Country-level legal and financial institution indexes
+- Elkins McSherry debt and equity trading cost data
 identification: Dynamic panel model with firm and year fixed effects, country fixed effects, lagged instruments, two-stage institutional regressions, random effects and IV robustness using legal origin and settler mortality
 main_result: Across 37 countries, reliable leverage determinants are firm size, tangibility, industry leverage, profitability, and inflation, while institutional quality affects both leverage levels and adjustment speeds toward target leverage.
 exam_relevance: high
 must_memorize: true
 tags:
-  - capital-structure
-  - leverage
-  - institutions
-  - international-finance
-  - dynamic-adjustment
-  - DrJandik
+- capital-structure
+- leverage
+- institutions
+- international-finance
+- dynamic-adjustment
 created: 2026-06-03
 updated: 2026-06-03
 ---
-
-
-
 
 # Oztekin 2015
 

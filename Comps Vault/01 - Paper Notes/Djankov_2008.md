@@ -5,23 +5,40 @@ title: The Law and Economics of Self-Dealing
 authors: Simeon Djankov, Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer
 year: 2008
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 2
+jandik_week: 1
+jandik_topic: 'Corporate governance: issues and indices'
+jandik_done: true
 field: Corporate Finance
-literature: Law and Finance; Corporate Governance; Investor Protection; Financial Development
-methods: Cross-country legal index construction; OLS; IV using legal origin; robustness tests
-datasets: Lex Mundi legal survey; World Development Indicators; Dyck and Zingales control premium data; IPO data; ownership concentration data
+literature:
+- Law and Finance
+- '[[Corporate Governance]]'
+- Investor Protection
+- Financial Development
+methods:
+- Cross-country legal index construction
+- OLS
+- IV using legal origin
+- robustness tests
+datasets:
+- Lex Mundi legal survey
+- World Development Indicators
+- Dyck and Zingales control premium data
+- IPO data
+- ownership concentration data
 identification: Cross-country legal variation, with common law legal origin used as an instrument for anti-self-dealing protections
 main_result: Stronger private enforcement protections against self-dealing predict larger and deeper stock markets, while public enforcement measures do not predict financial development as well.
 exam_relevance: high
 must_memorize: true
 tags:
-  - law-and-finance
-  - corporate-governance
-  - investor-protection
-  - self-dealing
-  - legal-origin
-  - financial-development
-  - DrJandik
+- law-and-finance
+- corporate-governance
+- investor-protection
+- self-dealing
+- legal-origin
+- financial-development
 created: 2026-06-03
 updated: 2026-06-03
 ---

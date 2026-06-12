@@ -1,28 +1,41 @@
 ---
 type: paper
 status: unread
-title: "Information Sharing, Holdup, and External Finance: Evidence from Private Firms"
+title: 'Information Sharing, Holdup, and External Finance: Evidence from Private Firms'
 authors: Andrew Bird, Stephen A. Karolyi, Thomas G. Ruchti
 year: 2019
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 15
+jandik_week: 4
+jandik_topic: 'Debt contracts: covenants, social capital, lender hold-up, and creditor control'
+jandik_done: true
 field: Corporate Finance
-literature: Relationship Lending; Private Debt; Voluntary Disclosure; Financial Constraints
-methods: Fixed effects regressions; instrumental variables; IPO timing variation
-datasets: LPC Dealscan; Kenney-Patton IPO database
+literature:
+- Relationship Lending
+- Private Debt
+- Voluntary Disclosure
+- Financial Constraints
+methods:
+- Fixed effects regressions
+- instrumental variables
+- IPO timing variation
+datasets:
+- '[[DealScan]]'
+- Kenney-Patton IPO database
 identification: Borrower, lender, and year fixed effects plus IPO-timing IV based on Altonji and Shakotko style quality-adjusted disclosure trends
 main_result: Private borrowers that voluntarily disclose financial information reduce lender holdup, switch lenders more often, borrow from broader syndicates, pay lower spreads, and receive larger loan amounts.
 exam_relevance: high
 must_memorize: true
 tags:
-  - relationship-lending
-  - lender-holdup
-  - voluntary-disclosure
-  - private-debt
-  - financial-constraints
-  - syndicated-loans
-  - information-asymmetry
-  - DrJandik
+- relationship-lending
+- lender-holdup
+- voluntary-disclosure
+- private-debt
+- financial-constraints
+- syndicated-loans
+- information-asymmetry
 created: 2026-06-04
 updated: 2026-06-04
 ---

@@ -5,20 +5,31 @@ title: International Corporate Governance
 authors: Diane K. Denis and John J. McConnell
 year: 2003
 journal: Journal of Financial and Quantitative Analysis
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 1
+jandik_week: 1
+jandik_topic: 'Corporate governance: issues and indices'
+jandik_done: true
 field: corporate finance
-literature: corporate governance, international corporate governance, investor protection, ownership structure
-methods: literature review, cross-country synthesis
-datasets: survey of prior empirical studies
+literature:
+- '[[Corporate Governance]]'
+- international corporate governance
+- investor protection
+- ownership structure
+methods:
+- literature review
+- cross-country synthesis
+datasets:
+- survey of prior empirical studies
 identification: survey paper, not a single causal identification design
 main_result: International corporate governance research evolves from studying firm-level mechanisms within individual countries to studying how legal systems and investor protection shape governance structures and outcomes across countries.
 exam_relevance: high
 must_memorize: true
 tags:
-  - DrJandik
-  - board-monitoring
-  - corporate-finance
-  - corporate-governance
+- board-monitoring
+- corporate-finance
+- corporate-governance
 created: 2026-06-03
 updated: 2026-06-03
 ---

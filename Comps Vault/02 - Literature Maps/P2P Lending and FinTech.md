@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: P2P Lending and FinTech
 seminar:
-related_methods:
-related_datasets:
+literature: P2P Lending and FinTech
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: P2P Lending and FinTech

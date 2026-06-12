@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Customer-Supplier Shock Propagation
 seminar:
-related_methods:
-related_datasets:
+literature: Customer-Supplier Shock Propagation
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Customer-Supplier Shock Propagation

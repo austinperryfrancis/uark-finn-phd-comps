@@ -5,22 +5,41 @@ title: Creditor Control Rights and Resource Allocation Within Firms
 authors: Nuri Ersahin, Rustom M. Irani, Hanh Le
 year: 2021
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 16
+jandik_week: 4
+jandik_topic: 'Debt contracts: covenants, social capital, lender hold-up, and creditor control'
+jandik_done: true
 field: Corporate Finance
-literature: Creditor governance, debt covenants, internal capital markets, restructuring
-methods: Difference-in-differences, establishment-level regressions, regression discontinuity robustness, matching, placebo tests
-datasets: US Census LBD, Census of Manufactures, Annual Survey of Manufactures, Compustat, Nini et al. covenant violations, Dealscan
+literature:
+- Creditor governance
+- debt covenants
+- internal capital markets
+- restructuring
+methods:
+- Difference-in-differences
+- establishment-level regressions
+- regression discontinuity robustness
+- matching
+- placebo tests
+datasets:
+- US Census LBD
+- Census of Manufactures
+- Annual Survey of Manufactures
+- '[[Compustat]]'
+- Nini et al. covenant violations
+- '[[DealScan]]'
 identification: New covenant violations as shifts in creditor control rights, with flexible controls, firm FE, industry-state-year FE, RDD around covenant thresholds, and matching robustness
 main_result: Covenant violations lead firms to cut employment, investment, and establishments mainly in peripheral, unproductive, risky, and agency-prone units, especially when lenders have industry experience.
 exam_relevance: high
 must_memorize: true
 tags:
-  - creditor-governance
-  - debt-covenants
-  - internal-capital-markets
-  - restructuring
-  - corporate-governance
-  - DrJandik
+- creditor-governance
+- debt-covenants
+- internal-capital-markets
+- restructuring
+- corporate-governance
 created: 2026-06-04
 updated: 2026-06-04
 ---

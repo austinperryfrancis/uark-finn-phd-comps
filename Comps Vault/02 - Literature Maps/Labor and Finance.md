@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Labor and Finance
 seminar:
-related_methods:
-related_datasets:
+literature: Labor and Finance
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Labor and Finance

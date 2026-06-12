@@ -5,23 +5,39 @@ title: Financial versus Strategic Buyers
 authors: Marc Martos-Vila, Matthew Rhodes-Kropf, Jarrad Harford
 year: 2019
 journal: Journal of Financial and Quantitative Analysis
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 36
+jandik_week: 9
+jandik_topic: Internal capital markets, diversification, and M&A basics
+jandik_done: true
 field: Corporate Finance
-literature: M&A, Private Equity, Debt Misvaluation, Merger Waves
-methods: Theory, Tobit regressions, Logistic regressions, Industry fixed effects
-datasets: SDC Platinum, Moody's Average Position, Compustat, macro controls
+literature:
+- M&A
+- '[[Private Equity]]'
+- Debt Misvaluation
+- '[[Mergers and Acquisitions]]'
+methods:
+- Theory
+- Tobit regressions
+- Logistic regressions
+- Industry fixed effects
+datasets:
+- '[[SDC Platinum]]'
+- Moody's Average Position
+- '[[Compustat]]'
+- macro controls
 identification: Theory plus suggestive empirical tests using ex post debt rating accuracy as a proxy for debt market overvaluation
 main_result: Debt overvaluation shifts acquisition activity toward financial buyers because PE can exploit mispriced debt more than strategic buyers, especially relative to conglomerate acquirers.
 exam_relevance: high
 must_memorize: true
 tags:
-  - ma
-  - private-equity
-  - debt-misvaluation
-  - merger-waves
-  - capital-structure
-  - corporate-governance
-  - DrJandik
+- mergers-and-acquisitions
+- private-equity
+- debt-misvaluation
+- merger-waves
+- capital-structure
+- corporate-governance
 created: 2026-06-05
 updated: 2026-06-05
 ---

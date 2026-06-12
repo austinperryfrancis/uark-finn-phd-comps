@@ -5,23 +5,44 @@ title: Socially Responsible Corporate Customers
 authors: Rui Dai, Hao Liang, Lilian Ng
 year: 2021
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 44
+jandik_week: 11
+jandik_topic: Suppliers and customers
+jandik_done: false
 field: Corporate Finance
-literature: CSR, Supply Chains, Stakeholder Governance
-methods: Panel regressions, RDD, event study, mechanism tests
-datasets: FactSet Revere, Thomson Reuters ASSET4, MSCI IVA, Sustainalytics, ISS Voting, RepRisk, Worldscope, PATSTAT, BoardEx, FactSet Ownership
+literature:
+- CSR
+- Supply Chains
+- Stakeholder Governance
+methods:
+- Panel regressions
+- RDD
+- event study
+- mechanism tests
+datasets:
+- '[[FactSet Revere]]'
+- Thomson Reuters ASSET4
+- MSCI IVA
+- Sustainalytics
+- ISS Voting
+- RepRisk
+- Worldscope
+- '[[Patent Data]]'
+- '[[BoardEx]]'
+- FactSet Ownership
 identification: Close-call CSR proposal RDD and product-safety scandal shocks
 main_result: Customer CSR propagates downstream to suppliers, but supplier CSR does not symmetrically affect customers.
 exam_relevance: high
 must_memorize: true
 tags:
-  - csr
-  - supply-chains
-  - stakeholder-governance
-  - rdd
-  - corporate-customers
-  - esg
-  - DrJandik
+- csr
+- supply-chains
+- stakeholder-governance
+- rdd
+- corporate-customers
+- esg
 created: 2026-06-12
 updated: 2026-06-12
 ---

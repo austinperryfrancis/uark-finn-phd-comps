@@ -5,23 +5,39 @@ title: Tax Rates and Corporate Decision Making
 authors: John R. Graham, Michelle Hanlon, Terry Shevlin, Nemit Shroff
 year: 2017
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 8
+jandik_week: 2
+jandik_topic: 'Capital structure: determinants and targets, taxes, and information asymmetry'
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Taxes; Capital Structure; Behavioral Corporate Finance; Corporate Investment
-methods: Survey; Probit; Panel Regressions; Matched Benchmark Sample; DiD-like Design
-datasets: Corporate tax executive survey; Compustat; LinkedIn education data
+literature:
+- Corporate Taxes
+- '[[Capital Structure]]'
+- Behavioral Corporate Finance
+- Corporate Investment
+methods:
+- Survey
+- Probit
+- Panel Regressions
+- Matched Benchmark Sample
+- DiD-like Design
+datasets:
+- Corporate tax executive survey
+- '[[Compustat]]'
+- LinkedIn education data
 identification: Survey evidence plus variation in the gap between marginal tax rates and GAAP effective tax rates, benchmarked against firms using MTR or STR
 main_result: Many firms use GAAP effective tax rates rather than marginal tax rates for incremental decisions, and this is associated with suboptimal leverage and weaker investment responsiveness.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-taxes
-  - capital-structure
-  - behavioral-corporate-finance
-  - investment
-  - survey-evidence
-  - corporate-finance
-  - DrJandik
+- corporate-taxes
+- capital-structure
+- behavioral-corporate-finance
+- investment
+- survey-evidence
+- corporate-finance
 created: 2026-06-03
 updated: 2026-06-03
 ---

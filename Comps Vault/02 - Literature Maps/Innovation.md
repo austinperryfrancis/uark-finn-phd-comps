@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Innovation
 seminar:
-related_methods:
-related_datasets:
+literature: Innovation
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Innovation

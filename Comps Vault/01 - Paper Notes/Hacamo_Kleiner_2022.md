@@ -1,26 +1,42 @@
 ---
 type: paper
 status: unread
-title: "Competing for Talent: Firms, Managers, and Social Networks"
+title: 'Competing for Talent: Firms, Managers, and Social Networks'
 authors: Isaac Hacamo; Kristoph Kleiner
 year: 2022
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 24
+jandik_week: 6
+jandik_topic: Networks in corporate finance
+jandik_done: true
 field: Corporate Finance
-literature: Managerial Labor Markets; Social Networks; Human Capital; Corporate Governance
-methods: Randomized peer assignment; conditional logit; survey evidence; placebo tests
-datasets: Indiana University Kelley MBA records; LinkedIn employment histories; MBA admissions data; survey data
+literature:
+- Managerial Labor Markets
+- '[[Managerial and Social Networks]]'
+- '[[Labor and Finance]]'
+- '[[Corporate Governance]]'
+methods:
+- Randomized peer assignment
+- conditional logit
+- survey evidence
+- placebo tests
+datasets:
+- Indiana University Kelley MBA records
+- LinkedIn employment histories
+- MBA admissions data
+- survey data
 identification: Random assignment of MBA students to cohorts and teams creates exogenous firm connections through former employees
 main_result: Social networks increase the likelihood firms hire high-ability managers, especially for less-known, nonlocal firms and strong ties, with little effect on low-ability hires.
 exam_relevance: high
 must_memorize: true
 tags:
-  - managerial-labor-markets
-  - social-networks
-  - human-capital
-  - corporate-governance
-  - recruitment
-  - DrJandik
+- managerial-labor-markets
+- social-networks
+- human-capital
+- corporate-governance
+- recruitment
 created: 2026-06-04
 updated: 2026-06-04
 ---

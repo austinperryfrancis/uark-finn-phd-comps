@@ -5,23 +5,40 @@ title: Input Specificity and the Propagation of Idiosyncratic Shocks in Producti
 authors: Jean-Noël Barrot and Julien Sauvagnat
 year: 2016
 journal: Quarterly Journal of Economics
+professor: DrJandik
 seminar: Not clear from provided text
+jandik_paper_number: 41
+jandik_week: 11
+jandik_topic: Suppliers and customers
+jandik_done: false
 field: Corporate Finance, Macro Finance, Industrial Organization
-literature: Production Networks, Supply Chain Finance, Firm Shocks and Aggregate Fluctuations
-methods: Difference in differences, event study, firm fixed effects, network empirics
-datasets: Compustat Segment, Compustat Fundamentals Quarterly, SHELDUS, Infogroup, CRSP, Rauch input specificity classification, Google/Kogan patent data
+literature:
+- '[[Customer-Supplier Shock Propagation]]'
+- Firm Shocks and Aggregate Fluctuations
+methods:
+- Difference in differences
+- event study
+- firm fixed effects
+- network empirics
+datasets:
+- Compustat Segment
+- '[[Compustat]]'
+- SHELDUS
+- Infogroup
+- '[[CRSP]]'
+- Rauch input specificity classification
+- '[[Patent Data]]'
 identification: Major natural disasters hitting supplier headquarters counties
 main_result: Supplier shocks reduce customer sales growth by about 2 to 3 percentage points, especially when the supplier produces specific inputs.
 exam_relevance: high
 must_memorize: true
 tags:
-  - production-networks
-  - supply-chain
-  - input-specificity
-  - natural-disasters
-  - firm-shocks
-  - qje
-  - DrJandik
+- production-networks
+- supply-chains
+- input-specificity
+- natural-disasters
+- firm-shocks
+- qje
 created: 2026-06-12
 updated: 2026-06-12
 ---

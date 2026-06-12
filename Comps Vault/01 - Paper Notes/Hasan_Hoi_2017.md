@@ -1,28 +1,48 @@
 ---
 type: paper
 status: unread
-title: "Social Capital and Debt Contracting: Evidence from Bank Loans and Public Bonds"
+title: 'Social Capital and Debt Contracting: Evidence from Bank Loans and Public Bonds'
 authors: Iftekhar Hasan, Chun Keung Hoi, Qiang Wu, Hao Zhang
 year: 2017
 journal: Journal of Financial and Quantitative Analysis
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 13
+jandik_week: 4
+jandik_topic: 'Debt contracts: covenants, social capital, lender hold-up, and creditor control'
+jandik_done: true
 field: Corporate Finance
-literature: Debt Contracting; Social Capital; Bank Loans; Public Debt; Local Norms
-methods: OLS; difference in differences; instrumental variables; logistic regression; PCA
-datasets: DealScan; Compustat; NRCRD social capital data; BEA county data; SEC 10-K headquarters data; SDC New Issues
+literature:
+- Debt Contracting
+- Social Capital
+- Bank Loans
+- Public Debt
+- Local Norms
+methods:
+- OLS
+- difference in differences
+- instrumental variables
+- logistic regression
+- PCA
+datasets:
+- '[[DealScan]]'
+- '[[Compustat]]'
+- NRCRD social capital data
+- BEA county data
+- SEC 10-K headquarters data
+- SDC New Issues
 identification: County-level social capital, headquarters relocation DiD, and IV using distance to Canadian border and ethnic homogeneity
 main_result: Firms headquartered in high-social-capital counties face lower loan spreads, less restrictive loan terms, lower bond spreads, and greater use of public bonds relative to bank loans.
 exam_relevance: high
 must_memorize: true
 tags:
-  - debt-contracting
-  - social-capital
-  - bank-loans
-  - public-bonds
-  - moral-hazard
-  - local-norms
-  - DrJandik
-  - difference-in-differences
+- debt-contracting
+- social-capital
+- bank-loans
+- public-bonds
+- moral-hazard
+- local-norms
+- difference-in-differences
 created: 2026-06-04
 updated: 2026-06-04
 ---

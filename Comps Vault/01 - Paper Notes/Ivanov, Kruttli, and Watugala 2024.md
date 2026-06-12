@@ -1,28 +1,43 @@
 ---
 type: paper
 status: unread
-title: Banking on Carbon: Corporate Lending and Cap-and-Trade Policy
+title: 'Banking on Carbon: Corporate Lending and Cap-and-Trade Policy'
 authors: Ivan T. Ivanov; Mathias S. Kruttli; Sumudu W. Watugala
 year: 2024
 journal: Review of Financial Studies
+professor: DrJandik
 seminar: Not clear from provided text
+jandik_paper_number: 47
+jandik_week: 12
+jandik_topic: Climate finance
+jandik_done: false
 field: Corporate Finance; Banking; Climate Finance
-literature: Climate Finance; Bank Lending; Transition Risk; Debt Contracting
-methods: Difference-in-differences; regulatory natural experiments; threshold-based treatment; loan-level panel regressions
-datasets: EPA GHG Reporting Program; Federal Reserve Y14; Shared National Credit Program
+literature:
+- '[[Climate Finance and Supply Chains]]'
+- Bank Lending
+- Transition Risk
+- Debt Contracting
+methods:
+- Difference-in-differences
+- regulatory natural experiments
+- threshold-based treatment
+- loan-level panel regressions
+datasets:
+- EPA GHG Reporting Program
+- Federal Reserve Y14
+- Shared National Credit Program
 identification: California emissions exposure and Waxman-Markey 5% energy-intensity free-permit threshold
 main_result: Banks respond to transition risk by shortening loan maturities, reducing term-loan financing, raising interest rates for private emitters, and transferring some exposure to shadow banks.
 exam_relevance: high
 must_memorize: true
 tags:
-  - climate-finance
-  - bank-lending
-  - transition-risk
-  - debt-contracting
-  - private-firms
-  - cap-and-trade
-  - difference-in-differences
-  - DrJandik
+- climate-finance
+- bank-lending
+- transition-risk
+- debt-contracting
+- private-firms
+- cap-and-trade
+- difference-in-differences
 created: 2026-06-12
 updated: 2026-06-12
 ---

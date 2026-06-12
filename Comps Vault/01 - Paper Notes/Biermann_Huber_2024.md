@@ -5,26 +5,42 @@ title: Tracing the International Transmission of a Crisis through Multinational 
 authors: Marcus Biermann and Kilian Huber
 year: 2024
 journal: Journal of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 30
+jandik_week: 8
+jandik_topic: Internal capital markets and diversification
+jandik_done: true
 field: Corporate Finance, International Finance, Macrofinance
-literature: Internal Capital Markets, Multinational Firms, Financial Constraints, Shock Transmission
-methods: Difference-in-differences, event study, panel regressions, heterogeneity tests
-datasets: MiDi, Ustan, Creditreform relationship bank data, Orbis Historical Financials
+literature:
+- '[[Internal Capital Markets]]'
+- International Finance
+- Financial Constraints
+- '[[Customer-Supplier Shock Propagation]]'
+methods:
+- Difference-in-differences
+- event study
+- panel regressions
+- heterogeneity tests
+datasets:
+- MiDi
+- Ustan
+- Creditreform relationship bank data
+- Orbis Historical Financials
 identification: Commerzbank lending cut during the 2008/09 financial crisis as an exogenous credit supply shock to German multinational parents
 main_result: German multinational parents transmit credit shocks abroad through internal capital markets. Foreign affiliates lend to affected parents, become financially constrained, and reduce real activity.
 exam_relevance: high
 must_memorize: true
 tags:
-  - internal-capital-markets
-  - multinational-firms
-  - financial-constraints
-  - shock-transmission
-  - relationship-banking
-  - difference-in-differences
-  - DrJandik
-  - corporate-finance
-created:
-updated:
+- internal-capital-markets
+- multinational-firms
+- financial-constraints
+- shock-transmission
+- relationship-banking
+- difference-in-differences
+- corporate-finance
+created: null
+updated: null
 ---
 
 # Biermann and Huber 2024

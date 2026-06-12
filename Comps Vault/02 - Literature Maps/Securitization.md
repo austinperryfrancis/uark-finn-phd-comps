@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Securitization
 seminar:
-related_methods:
-related_datasets:
+literature: Securitization
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Securitization

@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Matching and PSM
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Matching and PSM

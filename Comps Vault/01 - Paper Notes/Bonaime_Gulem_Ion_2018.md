@@ -3,43 +3,47 @@ type: paper
 status: unread
 title: Does Policy Uncertainty Affect Mergers and Acquisitions?
 authors:
-  - Alice Bonaime
-  - Huseyin Gulen
-  - Mihai Ion
+- Alice Bonaime
+- Huseyin Gulen
+- Mihai Ion
 year: 2018
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 35
+jandik_week: 9
+jandik_topic: Internal capital markets, diversification, and M&A basics
+jandik_done: true
 field: Corporate Finance
 literature:
-  - Mergers and Acquisitions
-  - Policy Uncertainty
-  - Real Options
-  - Corporate Investment
+- '[[Mergers and Acquisitions]]'
+- Policy Uncertainty
+- Real Options
+- Corporate Investment
 methods:
-  - VAR
-  - Logit
-  - Heckman selection model
-  - Cross-sectional heterogeneity
-  - Policy uncertainty index
+- VAR
+- Logit
+- Heckman selection model
+- Cross-sectional heterogeneity
+- Policy uncertainty index
 datasets:
-  - SDC
-  - CRSP
-  - Compustat
-  - Baker Bloom Davis EPU
-  - BEA Input-Output Accounts
-  - Census concentration data
-  - Hoberg-Phillips TNIC
+- '[[SDC]]'
+- '[[CRSP]]'
+- '[[Compustat]]'
+- Baker Bloom Davis EPU
+- BEA Input-Output Accounts
+- Census concentration data
+- Hoberg-Phillips TNIC
 identification: Aggregate policy uncertainty shocks, firm-level acquisition likelihood models, extensive macro and firm controls, mechanism tests, Heckman selection models, and appendix instruments based on partisan conflict and election uncertainty
 main_result: Higher policy uncertainty reduces M&A activity, mainly through a real options channel that increases the value of waiting.
 exam_relevance: high
 must_memorize: true
 tags:
-  - mergers-acquisitions
-  - policy-uncertainty
-  - real-options
-  - corporate-investment
-  - corporate-finance
-  - DrJandik
+- mergers-and-acquisitions
+- policy-uncertainty
+- real-options
+- corporate-investment
+- corporate-finance
 created: 2026-06-05
 updated: 2026-06-05
 ---

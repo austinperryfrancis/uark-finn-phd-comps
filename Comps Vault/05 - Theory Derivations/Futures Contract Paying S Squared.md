@@ -1,12 +1,9 @@
 ---
 type: theory-derivation
-topic: Futures Contract Paying S Squared
 seminar: FINN 60403 Finance Theory
-difficulty:
 tags:
-  - theory
-  - derivation
-  - comps
+topic: Futures Contract Paying S Squared
+difficulty:
 ---
 
 # Futures Contract Paying S Squared

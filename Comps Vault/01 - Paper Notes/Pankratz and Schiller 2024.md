@@ -1,44 +1,48 @@
 ---
 type: paper
 status: unread
-title: "Climate Change and Adaptation in Global Supply-Chain Networks"
-authors: "Nora M. C. Pankratz; Christoph M. Schiller"
+title: Climate Change and Adaptation in Global Supply-Chain Networks
+authors: Nora M. C. Pankratz; Christoph M. Schiller
 year: 2024
-journal: "Review of Financial Studies"
-seminar:
-field: "Climate finance; corporate finance; supply chains"
+journal: Review of Financial Studies
+professor: DrJandik
+seminar: null
+jandik_paper_number: 48
+jandik_week: 12
+jandik_topic: Climate finance
+jandik_done: false
+field: Climate finance; corporate finance; supply chains
 literature:
-  - "[[Climate Finance]]"
-  - "[[Supply Chain Networks]]"
-  - "[[Production Networks]]"
-  - "[[Physical Climate Risk]]"
-  - "[[Experience-Based Learning]]"
+- '[[Climate Finance and Supply Chains]]'
+- Supply Chain Networks
+- '[[Customer-Supplier Shock Propagation]]'
+- Physical Climate Risk
+- Experience-Based Learning
 methods:
-  - "Linear probability model"
-  - "Logit"
-  - "Cox hazard model"
-  - "High-dimensional fixed effects"
-  - "Weather shock identification"
+- Linear probability model
+- Logit
+- Cox hazard model
+- High-dimensional fixed effects
+- Weather shock identification
 datasets:
-  - "FactSet Revere"
-  - "Worldscope"
-  - "FactSet Fundamentals"
-  - "Orbis"
-  - "ECMWF ERA5"
-  - "CMIP5"
-  - "ND-GAIN"
-  - "Dartmouth Flood Observatory"
-identification: "Supplier-location heat realizations relative to historical expectations, with supplier industry-year, customer industry-year, and supplier-country by customer-country by year fixed effects."
-main_result: "When supplier heat exposure exceeds historical expectations, customers are about 7% more likely to terminate the relationship and tend to choose less heat-exposed replacement suppliers."
+- '[[FactSet Revere]]'
+- Worldscope
+- FactSet Fundamentals
+- Orbis
+- ECMWF ERA5
+- CMIP5
+- ND-GAIN
+- Dartmouth Flood Observatory
+identification: Supplier-location heat realizations relative to historical expectations, with supplier industry-year, customer industry-year, and supplier-country by customer-country by year fixed effects.
+main_result: When supplier heat exposure exceeds historical expectations, customers are about 7% more likely to terminate the relationship and tend to choose less heat-exposed replacement suppliers.
 exam_relevance: high
 must_memorize: true
 tags:
-  - climate-finance
-  - supply-chains
-  - physical-risk
-  - firm-adaptation
-  - production-networks
-  - DrJandik
+- climate-finance
+- supply-chains
+- physical-risk
+- firm-adaptation
+- production-networks
 created: 2026-06-12
 updated: 2026-06-12
 ---

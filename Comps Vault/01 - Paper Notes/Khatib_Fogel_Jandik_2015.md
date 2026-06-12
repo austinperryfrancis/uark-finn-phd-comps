@@ -5,23 +5,45 @@ title: CEO Network Centrality and Merger Performance
 authors: Rwan El-Khatib, Kathy Fogel, Tomas Jandik
 year: 2015
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 21
+jandik_week: 6
+jandik_topic: Networks in corporate finance
+jandik_done: true
 field: Corporate Finance
-literature: Mergers and Acquisitions; Corporate Governance; Social Networks in Finance; Behavioral Corporate Finance
-methods: Network centrality; event study; Probit; OLS; governance interactions; robustness tests
-datasets: BoardEx; SDC; CRSP; Compustat; RiskMetrics; ExecuComp; Thomson Reuters insider filings
+literature:
+- '[[Mergers and Acquisitions]]'
+- '[[Corporate Governance]]'
+- Social Networks in Finance
+- Behavioral Corporate Finance
+methods:
+- Network centrality
+- event study
+- Probit
+- OLS
+- governance interactions
+- robustness tests
+datasets:
+- '[[BoardEx]]'
+- '[[SDC]]'
+- '[[CRSP]]'
+- '[[Compustat]]'
+- '[[RiskMetrics]]'
+- '[[ExecuComp]]'
+- Thomson Reuters insider filings
 identification: Cross-sectional variation in CEO network centrality with event-study outcomes and controls
 main_result: High-centrality CEOs make more acquisitions, but those acquisitions have lower acquirer returns and lower combined synergies.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - mergers
-  - governance
-  - social-networks
-  - ceo-traits
-created:
-updated:
+- corporate-finance
+- mergers-and-acquisitions
+- governance
+- social-networks
+- ceo-traits
+created: null
+updated: null
 ---
 
 # El-Khatib, Fogel, and Jandik 2015

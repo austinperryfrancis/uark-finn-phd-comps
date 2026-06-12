@@ -1,27 +1,38 @@
 ---
 type: paper
 status: unread
-title: "CEO Compensation: Evidence from the Field"
+title: 'CEO Compensation: Evidence from the Field'
 authors: Alex Edmans, Tom Gosling, Dirk Jenter
 year: 2023
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 58
+jandik_week: 15
+jandik_topic: Governance
+jandik_done: false
 field: Corporate Finance
-literature: Executive Compensation, Corporate Governance, Survey Evidence
-methods: Survey, Interviews, Descriptive Evidence
-datasets: Survey of UK non-executive directors and institutional investors
+literature:
+- Executive Compensation
+- '[[Corporate Governance]]'
+- Survey Evidence
+methods:
+- Survey
+- Interviews
+- Descriptive Evidence
+datasets:
+- Survey of UK non-executive directors and institutional investors
 identification: Survey evidence, no causal identification
 main_result: CEO pay is shaped by fairness, reputation, investor pressure, and controversy constraints, not just participation and incentive constraints.
 exam_relevance: high
 must_memorize: true
 tags:
-  - executive-compensation
-  - corporate-governance
-  - CEO-incentives
-  - survey-evidence
-  - fairness
-  - proxy-advisors
-  - DrJandik
+- executive-compensation
+- corporate-governance
+- CEO-incentives
+- survey-evidence
+- fairness
+- proxy-advisors
 created: 2026-06-12
 updated: 2026-06-12
 ---

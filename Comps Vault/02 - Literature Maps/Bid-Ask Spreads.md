@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Bid-Ask Spreads
 seminar:
-related_methods:
-related_datasets:
+literature: Bid-Ask Spreads
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Bid-Ask Spreads

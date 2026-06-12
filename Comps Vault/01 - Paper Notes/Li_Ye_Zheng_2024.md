@@ -5,23 +5,38 @@ title: Price Ceilings, Market Structure, and Payout Policies
 authors: Xiongshi Li, Mao Ye, Miles Zheng
 year: 2024
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 20
+jandik_week: 5
+jandik_topic: 'Cash and payouts: cash, dividends, and repurchases'
+jandik_done: true
 field: Corporate Finance
-literature: Payout Policy, Share Repurchases, Market Microstructure
-methods: Difference-in-differences, event studies, randomized policy experiment
-datasets: Compustat, Daily TAQ, CRSP, FINRA Tick Size Pilot assignments, hand-collected ATS-N dark pool filings
+literature:
+- Payout Policy
+- Share Repurchases
+- '[[Bid-Ask Spreads]]'
+methods:
+- Difference-in-differences
+- event studies
+- randomized policy experiment
+datasets:
+- '[[Compustat]]'
+- Daily TAQ
+- '[[CRSP]]'
+- FINRA Tick Size Pilot assignments
+- hand-collected ATS-N dark pool filings
 identification: SEC Tick Size Pilot Program and historical market-structure reforms
 main_result: Market-structure frictions and Rule 10b-18 price ceilings explain part of the rise in repurchases; the Tick Size Pilot reduced repurchases by 21 percent, and by 45 percent for tick-constrained firms.
 exam_relevance: high
 must_memorize: true
 tags:
-  - payout-policy
-  - share-repurchases
-  - market-microstructure
-  - regulation
-  - difference-in-differences
-  - corporate-finance
-  - DrJandik
+- payout-policy
+- share-repurchases
+- market-microstructure
+- regulation
+- difference-in-differences
+- corporate-finance
 created: 2026-06-04
 updated: 2026-06-04
 ---

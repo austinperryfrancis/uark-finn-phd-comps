@@ -1,26 +1,43 @@
 ---
 type: paper
 status: unread
-title: "The Big Three and Board Gender Diversity: The Effectiveness of Shareholder Voice"
+title: 'The Big Three and Board Gender Diversity: The Effectiveness of Shareholder Voice'
 authors: Todd A. Gormley, Vishal K. Gupta, David A. Matsa, Sandra C. Mortal, Lukai Yang
 year: 2023
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 59
+jandik_week: 15
+jandik_topic: Governance
+jandik_done: false
 field: Corporate Finance
-literature: Corporate Governance; Institutional Investors; Board Diversity; ESG
-methods: Difference-in-differences; event study; triple differences; fixed effects
-datasets: BoardEx; Thomson Reuters 13F; CRSP; ISS Voting Analytics; MSCI ESG KLD
+literature:
+- '[[Corporate Governance]]'
+- Institutional Investors
+- Board Diversity
+- ESG
+methods:
+- Difference-in-differences
+- event study
+- triple differences
+- fixed effects
+datasets:
+- '[[BoardEx]]'
+- Thomson Reuters 13F
+- '[[CRSP]]'
+- '[[ISS Voting Analytics]]'
+- MSCI ESG KLD
 identification: Cross-sectional variation in 2016 Big Three ownership interacted with post-2016 campaign period
 main_result: Big Three gender-diversity campaigns substantially increased female board representation and pushed firms to broaden director search criteria.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - institutional-investors
-  - board-diversity
-  - shareholder-voice
-  - ESG
-  - DrJandik
+- corporate-governance
+- institutional-investors
+- board-diversity
+- shareholder-voice
+- esg
 created: 2026-06-12
 updated: 2026-06-12
 ---

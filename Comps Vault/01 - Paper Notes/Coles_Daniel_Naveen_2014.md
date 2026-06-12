@@ -5,28 +5,38 @@ title: Co-opted Boards
 authors: Jeffrey L. Coles, Naveen D. Daniel, Lalitha Naveen
 year: 2014
 journal: Review of Financial Studies
-seminar:  
+professor: DrJandik
+seminar: null
+jandik_paper_number: 4
+jandik_week: 1
+jandik_topic: 'Corporate governance: issues and indices'
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Governance
-methods: Panel regressions, logistic regression, firm fixed effects, modified difference-in-differences
-datasets: RiskMetrics, Execucomp, Compustat, CRSP
+literature:
+- '[[Corporate Governance]]'
+methods:
+- Panel regressions
+- logistic regression
+- firm fixed effects
+- modified difference-in-differences
+datasets:
+- '[[RiskMetrics]]'
+- '[[ExecuComp]]'
+- '[[Compustat]]'
+- '[[CRSP]]'
 identification: Firm and year fixed effects; post-SOX exchange-rule variation
 main_result: Co-opted boards monitor CEOs less effectively than non-co-opted independent boards
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - corporate-governance
-  - board-monitoring
-  - ceo-power
-  - executive-compensation
-  - DrJandik
+- corporate-finance
+- corporate-governance
+- board-monitoring
+- ceo-power
+- executive-compensation
 created: 2026-06-03
 updated: 2026-06-03
 ---
-
-
-
 
 # Coles, Daniel, and Naveen 2014
 

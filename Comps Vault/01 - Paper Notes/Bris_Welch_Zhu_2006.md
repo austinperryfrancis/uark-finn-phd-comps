@@ -1,27 +1,42 @@
 ---
 type: paper
 status: unread
-title: "The Costs of Bankruptcy: Chapter 7 Liquidation versus Chapter 11 Reorganization"
+title: 'The Costs of Bankruptcy: Chapter 7 Liquidation versus Chapter 11 Reorganization'
 authors: Arturo Bris, Ivo Welch, Ning Zhu
 year: 2006
 journal: Journal of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 9
+jandik_week: 3
+jandik_topic: 'Capital structure: bankruptcy, product markets, debt ownership, and debt maturity'
+jandik_done: true
 field: Corporate Finance
-literature: Bankruptcy Costs; Financial Distress; Creditor Recovery; Capital Structure
-methods: Hand-collected court records; OLS; probit; treatment effects; Heckman selection correction; judge fixed effects
-datasets: PACER bankruptcy court filings from Arizona and Southern District of New York
+literature:
+- Bankruptcy Costs
+- Financial Distress
+- Creditor Recovery
+- '[[Capital Structure]]'
+methods:
+- Hand-collected court records
+- OLS
+- probit
+- treatment effects
+- Heckman selection correction
+- judge fixed effects
+datasets:
+- PACER bankruptcy court filings from Arizona and Southern District of New York
 identification: Observational comparison of Chapter 7 and Chapter 11 with controls for endogenous chapter choice
 main_result: Chapter 7 is not meaningfully faster or cheaper than Chapter 11, while Chapter 11 preserves more estate value and produces higher creditor recoveries.
 exam_relevance: high
 must_memorize: true
 tags:
-  - bankruptcy
-  - financial-distress
-  - chapter-11
-  - chapter-7
-  - creditor-recovery
-  - capital-structure
-  - DrJandik
+- bankruptcy
+- financial-distress
+- chapter-11
+- chapter-7
+- creditor-recovery
+- capital-structure
 created: 2026-06-03
 updated: 2026-06-03
 ---

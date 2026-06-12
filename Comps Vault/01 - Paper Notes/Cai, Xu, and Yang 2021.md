@@ -1,27 +1,48 @@
 ---
 type: paper
 status: unread
-title: "Paying by Donating: Corporate Donations Affiliated with Independent Directors"
-authors: "Ye Cai, Jin Xu, Jun Yang"
+title: 'Paying by Donating: Corporate Donations Affiliated with Independent Directors'
+authors: Ye Cai, Jin Xu, Jun Yang
 year: 2021
-journal: "Review of Financial Studies"
-seminar:
-field: "Corporate Finance"
-literature: "Corporate Governance; Boards; Executive Compensation; CSR and Agency"
-methods: "Panel regressions; fixed effects; propensity score matching; instrumental variables; event-style tests"
-datasets: "BoardEx; Foundation Directory Online; IRS Forms 990-PF/990; ExecuComp; Compustat; CRSP; RiskMetrics; Thomson Reuters"
-identification: "Within-firm changes, compensation committee heterogeneity, director appointment/departure tests, and forced college coach turnover IV"
-main_result: "Affiliated charitable donations are associated with higher CEO pay, weaker CEO turnover-performance sensitivity, and worse firm performance."
+journal: Review of Financial Studies
+professor: DrJandik
+seminar: null
+jandik_paper_number: 55
+jandik_week: 14
+jandik_topic: Governance
+jandik_done: false
+field: Corporate Finance
+literature:
+- '[[Corporate Governance]]'
+- Boards
+- Executive Compensation
+- CSR and Agency
+methods:
+- Panel regressions
+- fixed effects
+- propensity score matching
+- instrumental variables
+- event-style tests
+datasets:
+- '[[BoardEx]]'
+- Foundation Directory Online
+- IRS Forms 990-PF/990
+- '[[ExecuComp]]'
+- '[[Compustat]]'
+- '[[CRSP]]'
+- '[[RiskMetrics]]'
+- Thomson Reuters
+identification: Within-firm changes, compensation committee heterogeneity, director appointment/departure tests, and forced college coach turnover IV
+main_result: Affiliated charitable donations are associated with higher CEO pay, weaker CEO turnover-performance sensitivity, and worse firm performance.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - boards
-  - executive-compensation
-  - csr
-  - agency
-  - instrumental-variables
-  - DrJandik
+- corporate-governance
+- boards
+- executive-compensation
+- csr
+- agency
+- instrumental-variables
 created: 2026-06-12
 updated: 2026-06-12
 ---

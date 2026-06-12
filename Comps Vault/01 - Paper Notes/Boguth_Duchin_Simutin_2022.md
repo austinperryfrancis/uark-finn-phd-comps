@@ -5,23 +5,38 @@ title: Dissecting Conglomerate Valuations
 authors: Oliver Boguth, Ran Duchin, and Mikhail Simutin
 year: 2022
 journal: Journal of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 25
+jandik_week: 7
+jandik_topic: Networks, internal capital markets, and diversification
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Diversification; Internal Capital Markets; Investment-q Sensitivity
-methods: Quantile regressions; industry-year valuation estimation; panel regressions; spinoff analysis; acquisition regressions
-datasets: Compustat; Compustat Segment files; SDC M&A; credit shock measures
+literature:
+- '[[Internal Capital Markets]]'
+- Investment-q Sensitivity
+methods:
+- Quantile regressions
+- industry-year valuation estimation
+- panel regressions
+- spinoff analysis
+- acquisition regressions
+datasets:
+- '[[Compustat]]'
+- Compustat Segment files
+- '[[SDC M&A]]'
+- credit shock measures
 identification: Conglomerate-implied divisional q estimation using sales exposure weights; comparisons to standalone q; credit shock sensitivity; spinoff around organizational change
 main_result: Divisional qs differ systematically from standalone qs, are less sensitive to economic and credit shocks, and better explain conglomerate investment and diversifying acquisition activity.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-diversification
-  - internal-capital-markets
-  - conglomerates
-  - investment-q
-  - external-financing-frictions
-  - DrJandik
-  - corporate-finance
+- corporate-diversification
+- internal-capital-markets
+- conglomerates
+- investment-q
+- external-financing-frictions
+- corporate-finance
 created: 2026-06-04
 updated: 2026-06-04
 ---

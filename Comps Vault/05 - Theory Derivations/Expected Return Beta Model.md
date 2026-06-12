@@ -1,12 +1,9 @@
 ---
 type: theory-derivation
-topic: Expected Return Beta Model
 seminar: FINN 60403 Finance Theory
-difficulty:
 tags:
-  - theory
-  - derivation
-  - comps
+topic: Expected Return Beta Model
+difficulty:
 ---
 
 # Expected Return Beta Model

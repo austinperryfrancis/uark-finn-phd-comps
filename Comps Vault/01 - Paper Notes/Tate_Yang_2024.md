@@ -1,27 +1,48 @@
 ---
 type: paper
 status: unread
-title: "The Human Factor in Acquisitions: Cross-industry Labor Mobility and Corporate Diversification"
+title: 'The Human Factor in Acquisitions: Cross-industry Labor Mobility and Corporate Diversification'
 authors: Geoffrey Tate; Liu Yang
 year: 2024
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 32
+jandik_week: 8
+jandik_topic: Internal capital markets and diversification
+jandik_done: true
 field: Corporate Finance
-literature: Corporate Diversification; Mergers and Acquisitions; Labor and Finance; Internal Labor Markets
-methods: OLS; event study; worker-firm matched data; linear probability model; triple interaction
-datasets: U.S. Census LBD; LEHD; Census Business Register/SSEL; SDC; CRSP; Compustat Segment; BEA Input-Output tables; Starr noncompete index
+literature:
+- '[[Internal Capital Markets]]'
+- '[[Mergers and Acquisitions]]'
+- '[[Labor and Finance]]'
+- Internal Labor Markets
+methods:
+- OLS
+- event study
+- worker-firm matched data
+- linear probability model
+- triple interaction
+datasets:
+- U.S. Census LBD
+- LEHD
+- Census Business Register/SSEL
+- '[[SDC]]'
+- '[[CRSP]]'
+- Compustat Segment
+- BEA Input-Output tables
+- Starr noncompete index
 identification: Cross-industry labor mobility predicts diversifying acquisitions; postdeal performance tests use deal controls and cross-state variation in noncompete enforceability
 main_result: Diversifying acquisitions are more common, more productive, less divested, and involve more high-skill worker retention and internal transfers when acquirer and target industries have high human capital transferability.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - mergers-acquisitions
-  - diversification
-  - labor-finance
-  - internal-labor-markets
-  - human-capital
-  - DrJandik
+- corporate-finance
+- mergers-and-acquisitions
+- diversification
+- labor-finance
+- internal-labor-markets
+- human-capital
 created: 2026-06-05
 updated: 2026-06-05
 ---

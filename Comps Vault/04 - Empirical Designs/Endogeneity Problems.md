@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Endogeneity Problems
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Endogeneity Problems

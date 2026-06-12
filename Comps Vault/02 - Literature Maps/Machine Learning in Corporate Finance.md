@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Machine Learning in Corporate Finance
 seminar:
-related_methods:
-related_datasets:
+literature: Machine Learning in Corporate Finance
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Machine Learning in Corporate Finance

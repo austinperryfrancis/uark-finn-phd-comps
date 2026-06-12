@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Event Studies
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Event Studies

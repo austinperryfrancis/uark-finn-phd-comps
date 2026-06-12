@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Bank Opacity
 seminar:
-related_methods:
-related_datasets:
+literature: Bank Opacity
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Bank Opacity

@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Instrumental Variables
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Instrumental Variables

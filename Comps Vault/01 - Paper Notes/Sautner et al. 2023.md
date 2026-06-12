@@ -5,23 +5,45 @@ title: Firm-Level Climate Change Exposure
 authors: Zacharias Sautner, Laurence van Lent, Grigory Vilkov, Ruishen Zhang
 year: 2023
 journal: Journal of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 46
+jandik_week: 12
+jandik_topic: Climate finance
+jandik_done: false
 field: climate finance
-literature: climate risk, textual analysis, green innovation, asset pricing
-methods: machine learning keyword discovery, earnings call textual analysis, Poisson regressions, variance decomposition, option-implied risk tests, conditional asset pricing
-datasets: Refinitiv Eikon earnings call transcripts, S&P Global Trucost, Wall Street Journal climate attention index, Burning Glass green jobs, Google Patents, OptionMetrics, Compustat, Ken French factors
+literature:
+- climate risk
+- textual analysis
+- green innovation
+- asset pricing
+methods:
+- machine learning keyword discovery
+- earnings call textual analysis
+- Poisson regressions
+- variance decomposition
+- option-implied risk tests
+- conditional asset pricing
+datasets:
+- Refinitiv Eikon earnings call transcripts
+- S&P Global Trucost
+- Wall Street Journal climate attention index
+- Burning Glass green jobs
+- '[[Patent Data]]'
+- OptionMetrics
+- '[[Compustat]]'
+- Ken French factors
 identification: predictive panel regressions with controls and fixed effects; validation design rather than clean causal shock
 main_result: Firm-level climate change exposure measured from earnings calls predicts green-tech hiring, green patenting, option-implied tail risk, and conditional equity risk premia.
 exam_relevance: high
 must_memorize: true
 tags:
-  - climate-finance
-  - textual-analysis
-  - green-innovation
-  - asset-pricing
-  - options
-  - machine-learning
-  - DrJandik
+- climate-finance
+- textual-analysis
+- green-innovation
+- asset-pricing
+- options
+- machine-learning
 created: 2026-06-12
 updated: 2026-06-12
 ---

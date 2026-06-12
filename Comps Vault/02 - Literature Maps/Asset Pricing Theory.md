@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Asset Pricing Theory
 seminar:
-related_methods:
-related_datasets:
+literature: Asset Pricing Theory
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Asset Pricing Theory

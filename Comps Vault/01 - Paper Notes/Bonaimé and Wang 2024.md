@@ -1,27 +1,46 @@
 ---
 type: paper
 status: unread
-title: "Mergers, Product Prices, and Innovation: Evidence from the Pharmaceutical Industry"
+title: 'Mergers, Product Prices, and Innovation: Evidence from the Pharmaceutical Industry'
 authors: Alice Bonaimé and Ye (Emma) Wang
 year: 2024
 journal: Journal of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 40
+jandik_week: 10
+jandik_topic: 'M&A: sources of synergies'
+jandik_done: false
 field: Corporate Finance
-literature: Mergers and Acquisitions; Product Market Competition; Innovation; Market Power
-methods: Difference-in-differences; event study; propensity score matching; triple differences
-datasets: NADAC; SDC Platinum; FDA Orange Book; FDA New Drug Approval database; Medicaid SDUD; CRSP/Compustat; WHO ATC codes
+literature:
+- '[[Mergers and Acquisitions]]'
+- Product Market Competition
+- '[[Innovation]]'
+- Market Power
+methods:
+- Difference-in-differences
+- event study
+- propensity score matching
+- triple differences
+datasets:
+- NADAC
+- '[[SDC Platinum]]'
+- FDA Orange Book
+- FDA New Drug Approval database
+- Medicaid SDUD
+- '[[CRSP-Compustat]]'
+- WHO ATC codes
 identification: Within-deal product-level DID comparing acquirer drugs in consolidating product markets to matched same-acquirer control drugs not directly affected by the merger
 main_result: Pharmaceutical mergers raise prices in consolidating drug markets by about 2%, especially where acquirer-target products are similar and competition is weak, while increasing follow-on labeling/manufacturing applications but not new drug creation.
 exam_relevance: high
 must_memorize: true
 tags:
-  - mergers
-  - market-power
-  - product-markets
-  - innovation
-  - pharmaceuticals
-  - difference-in-differences
-  - DrJandik
+- mergers-and-acquisitions
+- market-power
+- product-markets
+- innovation
+- pharmaceuticals
+- difference-in-differences
 created: 2026-06-05
 updated: 2026-06-05
 ---

@@ -5,23 +5,41 @@ title: Technological Innovation, Resource Allocation, and Growth
 authors: Leonid Kogan, Dimitris Papanikolaou, Amit Seru, Noah Stoffman
 year: 2017
 journal: Quarterly Journal of Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 49
+jandik_week: 13
+jandik_topic: Innovation and machine learning
+jandik_done: false
 field: Innovation, Macro Finance, Corporate Finance, Asset Pricing
-literature: Technological Innovation, Creative Destruction, Firm Growth, Productivity
-methods: patent event study, panel regressions, aggregate predictive regressions, instrumental variables
-datasets: Google Patents, CRSP, Compustat, patent citations, Nicholas patent citations, GDP, utilization-adjusted TFP
+literature:
+- Technological Innovation
+- Creative Destruction
+- Firm Growth
+- Productivity
+methods:
+- patent event study
+- panel regressions
+- aggregate predictive regressions
+- instrumental variables
+datasets:
+- '[[Patent Data]]'
+- '[[CRSP]]'
+- '[[Compustat]]'
+- Nicholas patent citations
+- GDP
+- utilization-adjusted TFP
 identification: stock market response to patent grants, industry-year variation, R&D tax credit instrument
 main_result: Privately valuable patents predict own firm growth, competitor decline, resource reallocation, and medium-run aggregate output and TFP growth.
 exam_relevance: high
 must_memorize: true
 tags:
-  - innovation
-  - patents
-  - creative-destruction
-  - firm-growth
-  - productivity
-  - qje
-  - DrJandik
+- innovation
+- patents
+- creative-destruction
+- firm-growth
+- productivity
+- qje
 created: 2026-06-12
 updated: 2026-06-12
 ---

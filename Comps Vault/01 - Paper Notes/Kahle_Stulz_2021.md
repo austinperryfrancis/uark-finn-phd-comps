@@ -5,25 +5,42 @@ title: Why are corporate payouts so high in the 2000s?
 authors: Kathleen Kahle; René M. Stulz
 year: 2021
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 19
+jandik_week: 5
+jandik_topic: 'Cash and payouts: cash, dividends, and repurchases'
+jandik_done: true
 field: Corporate Finance
-literature: Payout Policy; Share Repurchases; Corporate Investment; Financial Flexibility; Agency Costs
-methods: Descriptive decomposition; payout regressions; prediction models; firm fixed effects; robustness tests
-datasets: CRSP; Compustat; CPI
+literature:
+- Payout Policy
+- Share Repurchases
+- Corporate Investment
+- Financial Flexibility
+- Agency Costs
+methods:
+- Descriptive decomposition
+- payout regressions
+- prediction models
+- firm fixed effects
+- robustness tests
+datasets:
+- '[[CRSP]]'
+- '[[Compustat]]'
+- CPI
 identification: Predictive and descriptive decomposition using pre-2000 versus post-2000 firm characteristics, not a causal natural experiment
 main_result: Higher payouts in the 2000s are driven by both higher operating income and higher payout rates, with repurchases and changing firm characteristics explaining much of the increase.
 exam_relevance: high
 must_memorize: true
 tags:
-  - payout-policy
-  - repurchases
-  - dividends
-  - corporate-investment
-  - free-cash-flow
-  - agency-costs
-  - financial-flexibility
-  - corporate-finance
-  - DrJandik
+- payout-policy
+- repurchases
+- dividends
+- corporate-investment
+- free-cash-flow
+- agency-costs
+- financial-flexibility
+- corporate-finance
 created: 2026-06-04
 updated: 2026-06-04
 ---

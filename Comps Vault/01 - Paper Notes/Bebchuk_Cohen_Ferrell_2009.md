@@ -5,22 +5,34 @@ title: What Matters in Corporate Governance?
 authors: Lucian Bebchuk, Alma Cohen, Allen Ferrell
 year: 2009
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 3
+jandik_week: 1
+jandik_topic: 'Corporate governance: issues and indices'
+jandik_done: true
 field: corporate finance
-literature: corporate governance
-methods: panel regressions, portfolio return tests, firm fixed effects
-datasets: IRRC, Compustat, CRSP, ExecuComp
+literature:
+- '[[Corporate Governance]]'
+methods:
+- panel regressions
+- portfolio return tests
+- firm fixed effects
+datasets:
+- IRRC
+- '[[Compustat]]'
+- '[[CRSP]]'
+- '[[ExecuComp]]'
 identification: observational panel with controls, prior valuation controls, and firm fixed effects
 main_result: Six entrenching governance provisions explain the negative relation between governance restrictions, firm value, and abnormal returns
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-finance
-  - corporate-governance
-  - agency-problems
-  - takeovers
-  - firm-value
-  - DrJandik 
+- corporate-finance
+- corporate-governance
+- agency-problems
+- takeovers
+- firm-value
 created: 2026-06-03
 updated: 2026-06-03
 ---

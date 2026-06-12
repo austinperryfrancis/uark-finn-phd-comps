@@ -2,18 +2,20 @@
 type: dataset
 dataset: Call Reports
 used_in_literatures:
+  - Debt Contracting
+  - Loan Covenants
+  - Relationship Lending
 common_variables:
 tags:
-  - dataset
 ---
 
 # Call Reports
 
 ## What It Measures
-Describe the economic objects captured by Call Reports.
+Regulatory bank balance sheet and income statement data.
 
 ## Unit of Observation
-Firm, security, loan, patent, bank, branch, household, deal, or other unit.
+Bank-quarter.
 
 ## Common Variables
 - Identifier:
@@ -22,8 +24,7 @@ Firm, security, loan, patent, bank, branch, household, deal, or other unit.
 - Controls:
 
 ## Papers That Use It
-- [[Paper 1]]
-- [[Paper 2]]
+- [[Prilmeier_2017]] - Debt Contracting, Loan Covenants
 
 ## Strengths
 - Coverage:
@@ -36,4 +37,4 @@ Firm, security, loan, patent, bank, branch, household, deal, or other unit.
 - Missing variables:
 
 ## How to Discuss on Comps
-Explain what the data measure, why they are appropriate, and what limitations affect interpretation.
+Use this page to explain what the dataset measures, why it fits the research design, and what limitations affect interpretation.

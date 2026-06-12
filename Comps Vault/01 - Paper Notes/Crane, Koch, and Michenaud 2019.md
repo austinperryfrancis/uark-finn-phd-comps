@@ -5,39 +5,43 @@ title: Institutional Investor Cliques and Governance
 authors: Alan D. Crane, Andrew Koch, Sébastien Michenaud
 year: 2019
 journal: Journal of Financial Economics
+professor: DrJandik
 seminar: Not clear from provided text
+jandik_paper_number: 54
+jandik_week: 14
+jandik_topic: Governance
+jandik_done: false
 field: corporate finance
 literature:
-  - Corporate Governance
-  - Institutional Investors
-  - Shareholder Activism
-  - Market Liquidity and Governance
+- '[[Corporate Governance]]'
+- Institutional Investors
+- Shareholder Activism
+- Market Liquidity and Governance
 methods:
-  - institutional ownership networks
-  - shareholder voting regressions
-  - instrumental variables
-  - difference in differences
-  - liquidity shock
+- institutional ownership networks
+- shareholder voting regressions
+- instrumental variables
+- difference in differences
+- liquidity shock
 datasets:
-  - Thomson Reuters 13F
-  - ISS voting data
-  - CRSP
-  - Compustat
-  - SEC 13D filings
-  - ExecuComp
-  - SDC
+- Thomson Reuters 13F
+- ISS voting data
+- '[[CRSP]]'
+- '[[Compustat]]'
+- SEC 13D filings
+- '[[ExecuComp]]'
+- '[[SDC]]'
 identification: 2003 mutual fund trading scandal as a shock to institutional investor networks, plus decimalization as a liquidity shock
 main_result: Investor coordination strengthens governance by voice but weakens governance by threat of exit.
 exam_relevance: high
 must_memorize: true
 tags:
-  - corporate-governance
-  - institutional-investors
-  - shareholder-activism
-  - ownership-networks
-  - voice
-  - exit
-  - DrJandik
+- corporate-governance
+- institutional-investors
+- shareholder-activism
+- ownership-networks
+- voice
+- exit
 created: 2026-06-12
 updated: 2026-06-12
 ---

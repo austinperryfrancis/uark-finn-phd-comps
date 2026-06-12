@@ -5,23 +5,44 @@ title: International Trade and the Propagation of Merger Waves
 authors: Muhammad Farooq Ahmad; Eric de Bodt; Jarrad Harford
 year: 2021
 journal: Review of Financial Studies
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 22
+jandik_week: 6
+jandik_topic: Networks in corporate finance
+jandik_done: true
 field: Corporate Finance; International Finance
-literature: Mergers and Acquisitions; Merger Waves; Cross-Border M&A; International Trade; Networks
-methods: Network analysis; Dynamic panel; Arellano-Bond; 2SLS; Granger causality; Event study
-datasets: UN ComTrade; Thomson Financial SDC; Datastream; ICRG; World Bank; TIES; Hofstede
+literature:
+- '[[Mergers and Acquisitions]]'
+- Cross-Border M&A
+- International Trade
+- Networks
+methods:
+- Network analysis
+- Dynamic panel
+- Arellano-Bond
+- 2SLS
+- Granger causality
+- Event study
+datasets:
+- UN ComTrade
+- '[[SDC]]'
+- Datastream
+- ICRG
+- World Bank
+- TIES
+- Hofstede
 identification: Trade-flow shocks from import tariff cuts and trade sanctions; country and year fixed effects; shuffled-network placebo tests; country-pair fixed effects; Granger causality
 main_result: Merger waves propagate across countries through trade links, and trade-weighted merger activity in partner countries predicts both cross-border and domestic merger waves.
 exam_relevance: high
 must_memorize: true
 tags:
-  - mergers
-  - merger-waves
-  - cross-border-ma
-  - international-trade
-  - networks
-  - corporate-finance
-  - DrJandik
+- mergers-and-acquisitions
+- merger-waves
+- cross-border-ma
+- international-trade
+- networks
+- corporate-finance
 created: 2026-06-04
 updated: 2026-06-04
 ---

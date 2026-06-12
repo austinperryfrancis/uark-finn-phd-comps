@@ -2,18 +2,41 @@
 type: dataset
 dataset: Patent Data
 used_in_literatures:
+  - Technological Change
+  - Artificial Intelligence
+  - Intangible Capital
+  - "[[Innovation]]"
+  - Superstar Firms
+  - "[[Customer-Supplier Shock Propagation]]"
+  - Firm Shocks and Aggregate Fluctuations
+  - CSR
+  - Supply Chains
+  - Stakeholder Governance
+  - Firm Boundaries
+  - Vertical Integration
+  - "[[Mergers and Acquisitions]]"
+  - Technological Innovation
+  - Creative Destruction
+  - Firm Growth
+  - Productivity
+  - Corporate Culture
+  - Textual Analysis
+  - "[[Machine Learning in Corporate Finance]]"
+  - climate risk
+  - textual analysis
+  - green innovation
+  - asset pricing
 common_variables:
 tags:
-  - dataset
 ---
 
 # Patent Data
 
 ## What It Measures
-Describe the economic objects captured by Patent Data.
+Patent grants, citations, assignees, and innovation measures.
 
 ## Unit of Observation
-Firm, security, loan, patent, bank, branch, household, deal, or other unit.
+Patent or firm-year.
 
 ## Common Variables
 - Identifier:
@@ -22,8 +45,13 @@ Firm, security, loan, patent, bank, branch, household, deal, or other unit.
 - Controls:
 
 ## Papers That Use It
-- [[Paper 1]]
-- [[Paper 2]]
+- [[Babina, Fedyk, He, and Hodson 2024]] - Technological Change, Artificial Intelligence
+- [[Barrot and Sauvagnat 2016]] - [[Customer-Supplier Shock Propagation]], Firm Shocks and Aggregate Fluctuations
+- [[Dai, Liang, and Ng 2021]] - CSR, Supply Chains
+- [[Fresard, Hoberg, and Phillips 2020]] - Firm Boundaries, Vertical Integration
+- [[Kogan, Papanikolaou, Seru, and Stoffman 2017]] - Technological Innovation, Creative Destruction
+- [[Li, Mai, Shen, and Yan 2020]] - Corporate Culture, Textual Analysis
+- [[Sautner et al. 2023]] - climate risk, textual analysis
 
 ## Strengths
 - Coverage:
@@ -36,4 +64,4 @@ Firm, security, loan, patent, bank, branch, household, deal, or other unit.
 - Missing variables:
 
 ## How to Discuss on Comps
-Explain what the data measure, why they are appropriate, and what limitations affect interpretation.
+Use this page to explain what the dataset measures, why it fits the research design, and what limitations affect interpretation.

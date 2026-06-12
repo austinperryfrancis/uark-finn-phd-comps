@@ -5,22 +5,39 @@ title: Why Do Loans Contain Covenants? Evidence from Lending Relationships
 authors: Robert Prilmeier
 year: 2017
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 14
+jandik_week: 4
+jandik_topic: 'Debt contracts: covenants, social capital, lender hold-up, and creditor control'
+jandik_done: true
 field: Corporate Finance
-literature: Debt Contracting, Loan Covenants, Relationship Lending
-methods: OLS, Poisson regressions, instrumental variables, propensity score matching, structural probit
-datasets: DealScan, Compustat, DirectEDGAR, Federal Reserve Call Reports, National Information Center
+literature:
+- Debt Contracting
+- Loan Covenants
+- Relationship Lending
+methods:
+- OLS
+- Poisson regressions
+- instrumental variables
+- propensity score matching
+- structural probit
+datasets:
+- '[[DealScan]]'
+- '[[Compustat]]'
+- DirectEDGAR
+- '[[Call Reports]]'
+- National Information Center
 identification: Relationship lending variation, IV using borrower proximity to syndication-active banks, matching, robustness to loan pricing-covenant simultaneity
 main_result: Covenant tightness falls with relationship duration, especially for opaque borrowers, while covenant intensity follows an inverted U in relationship intensity.
 exam_relevance: high
 must_memorize: true
 tags:
-  - debt-contracting
-  - loan-covenants
-  - relationship-lending
-  - banking
-  - monitoring
-  - DrJandik
+- debt-contracting
+- loan-covenants
+- relationship-lending
+- banking
+- monitoring
 created: 2026-06-04
 updated: 2026-06-04
 ---

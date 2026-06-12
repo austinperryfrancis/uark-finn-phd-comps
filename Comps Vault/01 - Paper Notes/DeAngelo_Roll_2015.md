@@ -5,22 +5,34 @@ title: How Stable Are Corporate Capital Structures?
 authors: Harry DeAngelo and Richard Roll
 year: 2015
 journal: Journal of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 6
+jandik_week: 2
+jandik_topic: 'Capital structure: determinants and targets, taxes, and information asymmetry'
+jandik_done: true
 field: Corporate Finance
-literature: Capital Structure
-methods: Long-horizon panel analysis, variance decomposition, cross-sectional persistence tests, simulations
-datasets: CRSP/Compustat, hand-collected DJIA annual report data, Moody's manuals
+literature:
+- '[[Capital Structure]]'
+methods:
+- Long-horizon panel analysis
+- variance decomposition
+- cross-sectional persistence tests
+- simulations
+datasets:
+- '[[CRSP-Compustat]]'
+- hand-collected DJIA annual report data
+- Moody's manuals
 identification: Descriptive long-horizon evidence, not causal identification
 main_result: Corporate leverage is much less stable than prior fixed-effect evidence suggests. Leverage stability is temporary, mostly occurs at low leverage, and credible target leverage models must allow wide time variation.
 exam_relevance: high
 must_memorize: true
 tags:
-  - capital-structure
-  - leverage
-  - target-leverage
-  - financial-flexibility
-  - corporate-finance
-  - DrJandik
+- capital-structure
+- leverage
+- target-leverage
+- financial-flexibility
+- corporate-finance
 created: 2026-06-03
 updated: 2026-06-03
 ---

@@ -1,12 +1,9 @@
 ---
 type: theory-derivation
-topic: Consumption Based Asset Pricing
 seminar: FINN 60403 Finance Theory
-difficulty:
 tags:
-  - theory
-  - derivation
-  - comps
+topic: Consumption Based Asset Pricing
+difficulty:
 ---
 
 # Consumption Based Asset Pricing

@@ -5,39 +5,42 @@ title: New Evidence and Perspectives on Mergers
 authors: Gregor Andrade, Mark Mitchell, Erik Stafford
 year: 2001
 journal: Journal of Economic Perspectives
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 33
+jandik_week: 9
+jandik_topic: Internal capital markets, diversification, and M&A basics
+jandik_done: true
 field: Corporate Finance
 literature:
-  - Mergers and Acquisitions
-  - Market for Corporate Control
-  - Industry Shocks
-  - Event Studies
+- '[[Mergers and Acquisitions]]'
+- Industry Shocks
+- Event Studies
 methods:
-  - Descriptive evidence
-  - Event study
-  - Abnormal returns
-  - Industry shock analysis
-  - Fama-MacBeth style operating performance regressions
+- Descriptive evidence
+- Event study
+- Abnormal returns
+- Industry shock analysis
+- Fama-MacBeth style operating performance regressions
 datasets:
-  - CRSP
-  - Compustat
+- '[[CRSP]]'
+- '[[Compustat]]'
 identification:
-  - Event study around merger announcements
-  - Industry deregulation windows
-  - Industry benchmarked operating performance
+- Event study around merger announcements
+- Industry deregulation windows
+- Industry benchmarked operating performance
 main_result: Mergers occur in industry waves, deregulation explains a large share of 1990s merger activity, and mergers create positive combined shareholder value mostly captured by target shareholders.
 exam_relevance: high
 must_memorize: true
 tags:
-  - mergers
-  - acquisitions
-  - corporate-control
-  - event-studies
-  - industry-shocks
-  - deregulation
-  - stock-financing
-  - DrJandik
-  - corporate-finance
+- mergers-and-acquisitions
+- acquisitions
+- corporate-control
+- event-studies
+- industry-shocks
+- deregulation
+- stock-financing
+- corporate-finance
 created: 2026-06-05
 updated: 2026-06-05
 ---

@@ -5,23 +5,36 @@ title: Network Effects in Corporate Financial Policies
 authors: William Grieser, Charles Hadlock, James LeSage, Morad Zekhnini
 year: 2022
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 26
+jandik_week: 7
+jandik_topic: Networks, internal capital markets, and diversification
+jandik_done: true
 field: Corporate Finance
-literature: Capital Structure, Peer Effects, Product Market Competition
-methods: Spatial Econometrics, Network Models, MLE, MCMC
-datasets: CRSP-Compustat, Hoberg-Phillips TNIC Product Similarity
+literature:
+- '[[Capital Structure]]'
+- Peer Effects
+- Product Market Competition
+methods:
+- Spatial Econometrics
+- Network Models
+- MLE
+- MCMC
+datasets:
+- '[[CRSP-Compustat]]'
+- Hoberg-Phillips TNIC Product Similarity
 identification: Intransitive product-market peer networks plus exogenous capital-structure shifters
 main_result: Firms' leverage choices respond positively to product-market peers, with peer-effect coefficients around 0.20 rather than near one-for-one.
 exam_relevance: high
 must_memorize: true
 tags:
-  - capital-structure
-  - peer-effects
-  - product-market-competition
-  - spatial-econometrics
-  - networks
-  - DrJandik
-  - corporate-finance
+- capital-structure
+- peer-effects
+- product-market-competition
+- spatial-econometrics
+- networks
+- corporate-finance
 created: 2026-06-05
 updated: 2026-06-05
 ---

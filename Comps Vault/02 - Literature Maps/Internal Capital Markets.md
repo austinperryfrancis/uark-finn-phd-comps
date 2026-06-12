@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Internal Capital Markets
 seminar:
-related_methods:
-related_datasets:
+literature: Internal Capital Markets
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Internal Capital Markets

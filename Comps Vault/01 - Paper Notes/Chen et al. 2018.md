@@ -1,28 +1,50 @@
 ---
 type: paper
 status: unread
-title: "Clarity Begins at Home: Internal Information Asymmetry and External Communication Quality"
-authors: "Chen Chen; Xiumin Martin; Sugata Roychowdhury; Xin Wang; Matthew T. Billett"
+title: 'Clarity Begins at Home: Internal Information Asymmetry and External Communication Quality'
+authors: Chen Chen; Xiumin Martin; Sugata Roychowdhury; Xin Wang; Matthew T. Billett
 year: 2018
-journal: "The Accounting Review"
-seminar:
-field: "Accounting; Corporate Finance"
-literature: "Internal Information Environment; Disclosure; Financial Reporting Quality; Conglomerates; Insider Trading"
-methods: "Panel regressions; validation tests; 2SLS; logit; event-style tests"
-datasets: "TFN Insider Filing Database; Compustat Annual; Compustat Segments; First Call; Audit Analytics; hand-collected division data; T-100 Domestic Segment Database; GARMAISE non-compete index"
-identification: "DIFRET insider-trading-based measure of internal information asymmetry, validated with division characteristics, flight-time shocks, non-compete enforceability changes, CEO turnover, routine-trade placebo, and 2SLS using flight time and non-compete enforceability"
-main_result: "Higher internal information asymmetry between divisional and top managers predicts lower-quality management forecasts and more error-driven accounting restatements."
+journal: The Accounting Review
+professor: DrJandik
+seminar: null
+jandik_paper_number: 53
+jandik_week: 14
+jandik_topic: Governance
+jandik_done: false
+field: Accounting; Corporate Finance
+literature:
+- Internal Information Environment
+- Disclosure
+- Financial Reporting Quality
+- '[[Internal Capital Markets]]'
+- Insider Trading
+methods:
+- Panel regressions
+- validation tests
+- 2SLS
+- logit
+- event-style tests
+datasets:
+- TFN Insider Filing Database
+- '[[Compustat]]'
+- Compustat Segments
+- First Call
+- Audit Analytics
+- hand-collected division data
+- T-100 Domestic Segment Database
+- GARMAISE non-compete index
+identification: DIFRET insider-trading-based measure of internal information asymmetry, validated with division characteristics, flight-time shocks, non-compete enforceability changes, CEO turnover, routine-trade placebo, and 2SLS using flight time and non-compete enforceability
+main_result: Higher internal information asymmetry between divisional and top managers predicts lower-quality management forecasts and more error-driven accounting restatements.
 exam_relevance: high
 must_memorize: true
 tags:
-  - disclosure
-  - internal-information-environment
-  - management-forecasts
-  - restatements
-  - conglomerates
-  - insider-trading
-  - accounting
-  - DrJandik
+- disclosure
+- internal-information-environment
+- management-forecasts
+- restatements
+- conglomerates
+- insider-trading
+- accounting
 created: 2026-06-12
 updated: 2026-06-12
 ---

@@ -1,12 +1,9 @@
 ---
 type: theory-derivation
-topic: APT
 seminar: FINN 60403 Finance Theory
-difficulty:
 tags:
-  - theory
-  - derivation
-  - comps
+topic: APT
+difficulty:
 ---
 
 # APT

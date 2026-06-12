@@ -1,27 +1,48 @@
 ---
 type: paper
 status: unread
-title: "CEO Turnovers and Disruptions in Customer-Supplier Relationships"
-authors: "Vincent J. Intintoli, Matthew Serfling, and Sarah Shaikh"
+title: CEO Turnovers and Disruptions in Customer-Supplier Relationships
+authors: Vincent J. Intintoli, Matthew Serfling, and Sarah Shaikh
 year: 2017
-journal: "Journal of Financial and Quantitative Analysis"
-seminar: "Not clear from provided text"
-field: "Corporate Finance"
-literature: "Customer-Supplier Relationships; Supply Chain Risk; CEO Turnover; Corporate Governance"
-methods: "Difference-in-differences; panel fixed effects; event study; propensity-score matching; hazard model; cross-sectional heterogeneity"
-datasets: "Compustat Segment Customer Files; ExecuComp; Compustat; CRSP; Thomson Reuters Insider Filing Data Feed; RiskMetrics; LexisNexis; U.S. Economic Census"
-identification: "Staggered customer CEO turnover events with customer-supplier fixed effects, year fixed effects, controls, event-study evidence, propensity-score matching, placebo tests, and plausibly exogenous turnovers from death, illness, and natural retirement"
-main_result: "Customer CEO turnovers disrupt dependent suppliers: suppliers lose customer-specific sales, relationships are more likely to end, supplier total sales fall, and suppliers experience negative announcement returns."
+journal: Journal of Financial and Quantitative Analysis
+professor: DrJandik
+seminar: Not clear from provided text
+jandik_paper_number: 42
+jandik_week: 11
+jandik_topic: Suppliers and customers
+jandik_done: false
+field: Corporate Finance
+literature:
+- Customer-Supplier Relationships
+- Supply Chain Risk
+- CEO Turnover
+- '[[Corporate Governance]]'
+methods:
+- Difference-in-differences
+- panel fixed effects
+- event study
+- propensity-score matching
+- hazard model
+- cross-sectional heterogeneity
+datasets:
+- Compustat Segment Customer Files
+- '[[ExecuComp]]'
+- '[[Compustat]]'
+- '[[CRSP]]'
+- Thomson Reuters Insider Filing Data Feed
+- '[[RiskMetrics]]'
+- LexisNexis
+- U.S. Economic Census
+identification: Staggered customer CEO turnover events with customer-supplier fixed effects, year fixed effects, controls, event-study evidence, propensity-score matching, placebo tests, and plausibly exogenous turnovers from death, illness, and natural retirement
+main_result: 'Customer CEO turnovers disrupt dependent suppliers: suppliers lose customer-specific sales, relationships are more likely to end, supplier total sales fall, and suppliers experience negative announcement returns.'
 exam_relevance: high
 must_memorize: true
 tags:
-  - customer-supplier
-  - supply-chain-risk
-  - ceo-turnover
-  - corporate-governance
-  - difference-in-differences
-  - event-study
-  - DrJandik
+- supply-chains
+- ceo-turnover
+- corporate-governance
+- difference-in-differences
+- event-study
 created: 2026-06-12
 updated: 2026-06-12
 ---

@@ -1,27 +1,45 @@
 ---
 type: paper
 status: unread
-title: "Flexibility Costs of Debt: Danish Exporters During the Cartoon Crisis"
+title: 'Flexibility Costs of Debt: Danish Exporters During the Cartoon Crisis'
 authors: Benjamin U. Friedrich; Michał Zator
 year: 2023
 journal: Journal of Financial Economics
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 12
+jandik_week: 3
+jandik_topic: 'Capital structure: bankruptcy, product markets, debt ownership, and debt maturity'
+jandik_done: true
 field: Corporate Finance; International Trade
-literature: Capital structure; financial flexibility; product-market shocks; exporting
-methods: Difference-in-differences; triple differences; event study; loan maturity shock; administrative microdata
-datasets: Danish administrative firm data; Danish Foreign Trade Statistics Register; Accounting Register; Danish Business Register; employer-employee data; loan-level bank data
+literature:
+- Capital structure
+- financial flexibility
+- product-market shocks
+- exporting
+methods:
+- Difference-in-differences
+- triple differences
+- event study
+- loan maturity shock
+- administrative microdata
+datasets:
+- Danish administrative firm data
+- Danish Foreign Trade Statistics Register
+- Accounting Register
+- Danish Business Register
+- employer-employee data
+- loan-level bank data
 identification: Unexpected boycott of Danish products in Muslim countries after 2005 Muhammad cartoon publication
 main_result: Low-leverage firms redirect sales to new non-Muslim product-destination markets and offset the demand shock, while high-leverage firms do not expand and instead downsize.
 exam_relevance: high
 must_memorize: true
 tags:
-  - DrJandik
-  - corporate-finance
-  - capital-structure
+- corporate-finance
+- capital-structure
 created: 2026-06-03
 updated: 2026-06-03
 ---
-
 
 # Flexibility Costs of Debt: Danish Exporters During the Cartoon Crisis
 

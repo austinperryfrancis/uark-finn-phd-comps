@@ -1,27 +1,44 @@
 ---
 type: paper
 status: unread
-title: "Internal Capital Markets in Times of Crisis: The Benefit of Group Affiliation"
+title: 'Internal Capital Markets in Times of Crisis: The Benefit of Group Affiliation'
 authors: Raffaele Santioni, Fabio Schiantarelli, Philip E. Strahan
 year: 2020
 journal: Review of Finance
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 29
+jandik_week: 8
+jandik_topic: Internal capital markets and diversification
+jandik_done: true
 field: Corporate Finance
-literature: Internal Capital Markets; Business Groups; Financial Constraints; Bank Lending Channel; Crisis Finance
-methods: Discrete-time hazard model; linear probability model; firm-bank-quarter lending regressions; high-dimensional fixed effects; placebo pseudogroups
-datasets: Gruppi Italiani; Centrale dei Bilanci; Italian Credit Register; Bank of Italy Supervisory Reports
+literature:
+- '[[Internal Capital Markets]]'
+- Financial Constraints
+- Bank Lending Channel
+- Crisis Finance
+methods:
+- Discrete-time hazard model
+- linear probability model
+- firm-bank-quarter lending regressions
+- high-dimensional fixed effects
+- placebo pseudogroups
+datasets:
+- Gruppi Italiani
+- Centrale dei Bilanci
+- Italian Credit Register
+- Bank of Italy Supervisory Reports
 identification: Bank health shocks interacted with group affiliation and firm fundamentals
 main_result: Group-affiliated firms survive crises better because internal capital markets substitute for distressed bank finance.
 exam_relevance: high
 must_memorize: true
 tags:
-  - internal-capital-markets
-  - business-groups
-  - financial-constraints
-  - bank-lending-channel
-  - crisis-finance
-  - corporate-finance
-  - DrJandik
+- internal-capital-markets
+- business-groups
+- financial-constraints
+- bank-lending-channel
+- crisis-finance
+- corporate-finance
 created: 2026-06-05
 updated: 2026-06-05
 ---

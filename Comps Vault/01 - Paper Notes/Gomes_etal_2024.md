@@ -5,21 +5,41 @@ title: Analyst Coverage Networks and Corporate Financial Policies
 authors: Armando Gomes, Radhakrishnan Gopalan, Mark T. Leary, Francisco Marcet
 year: 2024
 journal: Management Science
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 28
+jandik_week: 7
+jandik_topic: Networks, internal capital markets, and diversification
+jandik_done: true
 field: Corporate Finance
-literature: Peer Effects; Capital Structure; Analyst Networks; Financial Intermediation
-methods: Network analysis; friends-of-friends IV; 2SLS; reduced form; brokerage closure shock; placebo tests
-datasets: Compustat; CRSP; IBES; SDC Platinum; Institutional Investor all-star analyst rankings
+literature:
+- Peer Effects
+- '[[Capital Structure]]'
+- Analyst Networks
+- Financial Intermediation
+methods:
+- Network analysis
+- friends-of-friends IV
+- 2SLS
+- reduced form
+- brokerage closure shock
+- placebo tests
+datasets:
+- '[[Compustat]]'
+- '[[CRSP]]'
+- '[[IBES]]'
+- '[[SDC Platinum]]'
+- Institutional Investor all-star analyst rankings
 identification: Idiosyncratic equity shocks to analyst peers and indirect friends-of-friends peers
 main_result: Firms adjust leverage and equity issuance in response to analyst-network peers, consistent with endogenous peer effects transmitted through sell-side analyst coverage networks.
 exam_relevance: high
 must_memorize: true
 tags:
-  - capital-structure
-  - peer-effects
-  - analyst-networks
-  - corporate-finance
-  - identification
+- capital-structure
+- peer-effects
+- analyst-networks
+- corporate-finance
+- identification
 created: 2026-06-04
 updated: 2026-06-04
 ---

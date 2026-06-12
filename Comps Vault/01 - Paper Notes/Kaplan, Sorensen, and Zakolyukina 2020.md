@@ -1,26 +1,45 @@
 ---
 type: paper
 status: unread
-title: "What Is CEO Overconfidence? Evidence from Executive Assessments"
+title: What Is CEO Overconfidence? Evidence from Executive Assessments
 authors: Steven N. Kaplan, Morten Sorensen, Anastasia A. Zakolyukina
 year: 2020
 journal: NBER Working Paper No. 27853
-seminar:
+professor: DrJandik
+seminar: null
+jandik_paper_number: 57
+jandik_week: 15
+jandik_topic: Governance
+jandik_done: false
 field: Corporate Finance
-literature: Behavioral Corporate Finance; CEO Traits; Managerial Overconfidence; Investment-Cash Flow Sensitivity
-methods: Executive assessments; validation exercise; factor analysis; EPS forecast measures; investment-cash flow regressions
-datasets: ghSMART executive assessments; DEF 14A; SEC EDGAR; Equilar; CRSP; Compustat; IBES
+literature:
+- Behavioral Corporate Finance
+- CEO Traits
+- Corporate Investment
+methods:
+- Executive assessments
+- validation exercise
+- factor analysis
+- EPS forecast measures
+- investment-cash flow regressions
+datasets:
+- ghSMART executive assessments
+- DEF 14A
+- SEC EDGAR
+- Equilar
+- '[[CRSP]]'
+- '[[Compustat]]'
+- '[[IBES]]'
 identification: Correlational validation using ex ante executive assessments and later CEO overconfidence proxies
 main_result: Longholder CEOs score lower on several traits associated with overconfidence and lower on general ability; Longholder and lower ability CEOs have higher investment-cash flow sensitivities.
 exam_relevance: high
 must_memorize: true
 tags:
-  - behavioral-corporate-finance
-  - ceo-overconfidence
-  - ceo-traits
-  - investment-cash-flow-sensitivity
-  - executive-assessments
-  - DrJandik
+- behavioral-corporate-finance
+- ceo-overconfidence
+- ceo-traits
+- investment-cash-flow-sensitivity
+- executive-assessments
 created: 2026-06-12
 updated: 2026-06-12
 ---

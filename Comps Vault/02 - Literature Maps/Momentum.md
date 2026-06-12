@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Momentum
 seminar:
-related_methods:
-related_datasets:
+literature: Momentum
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Momentum

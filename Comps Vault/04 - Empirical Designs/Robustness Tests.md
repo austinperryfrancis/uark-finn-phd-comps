@@ -1,12 +1,9 @@
 ---
 type: empirical-design
+tags:
 method: Robustness Tests
 use_cases:
 common_threats:
-tags:
-  - empirical-design
-  - methods
-  - comps
 ---
 
 # Robustness Tests

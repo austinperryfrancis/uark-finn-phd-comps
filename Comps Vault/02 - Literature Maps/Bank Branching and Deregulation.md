@@ -1,13 +1,11 @@
 ---
 type: literature-map
-literature: Bank Branching and Deregulation
 seminar:
-related_methods:
-related_datasets:
+literature: Bank Branching and Deregulation
 exam_relevance: high
 tags:
-  - literature-map
-  - comps
+related_methods:
+related_datasets:
 ---
 
 # Literature Map: Bank Branching and Deregulation
