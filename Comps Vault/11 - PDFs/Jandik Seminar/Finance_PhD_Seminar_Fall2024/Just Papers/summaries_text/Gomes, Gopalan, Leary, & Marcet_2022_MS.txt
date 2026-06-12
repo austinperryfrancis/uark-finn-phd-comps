@@ -1,7 +1,0 @@
-**Summary:**  
-The study investigates how analyst coverage networks influence corporate financial policies, distinguishing endogenous peer effects (firms mimicking peers' financial decisions) from contextual effects (responding to peers' characteristics). By leveraging intransitive triads in analyst networks (where firms A and B, and B and C share analysts, but A and C do not), the authors isolate endogenous effects using indirect peers' equity shocks as instruments. Results show that firms adjust their leverage and equity issuance in response to peers within their analyst network, independent of industry effects. These effects are stronger when connections involve experienced analysts or brokers from influential firms (e.g., "all-star" brokerages), and they diminish after exogenous brokerage closures disrupt shared coverage. Notably, SEOs following peers’ actions correlate with higher announcement returns, indicating reduced information asymmetry.
-
-**Key Takeaways:**  
-1. **Endogenous Peer Effects:** A 1-standard-deviation increase in peers’ leverage (equity issuance likelihood) raises a firm’s leverage by 0.482 SD (equity issuance by 0.520 SD), highlighting direct mimicry in financial policies.  
-2. **Analyst Influence Matters:** Peer effects are stronger when firms are connected via analysts from top brokerages (+15–20% effect size) or experienced analysts (+22–24% for leverage).  
-3. **Network Disruptions Weaken Effects:** Exogenous brokerage closures reduce peer influence, underscoring analysts’ role as information conduits.

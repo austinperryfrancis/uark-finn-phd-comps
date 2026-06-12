@@ -1,7 +1,0 @@
-**Summary:**  
-The study examines the impact of artificial intelligence (AI) investments on firm growth and innovation using novel measures derived from employee resumes and job postings. By analyzing data from 2010 to 2018, the authors find that firms increasing their AI investments—proxied by hiring AI-skilled workers—experience significant growth: a one-standard-deviation rise in AI investment correlates with 19.5% higher sales, 18.1% employment growth, and a 22.3% increase in market valuation. This growth is driven primarily by **product innovation** (evidenced by more trademarks, product patents, and product portfolio updates) rather than cost reductions or productivity gains. Instrumental variable analysis, leveraging firms’ historical ties to universities producing AI talent, confirms these results. Larger firms benefit disproportionately, contributing to increased industry concentration, with AI-investing industries seeing higher Herfindahl-Hirschman Index (HHI) scores (0.012–0.022 increase).
-
-**Key Takeaways:**  
-- **Product Innovation Drives Growth**: AI adoption boosts firm growth through new product development (19.5% sales growth per σ AI increase), not operational efficiency.  
-- **Concentration Among Large Firms**: AI benefits scale with firm size, amplifying industry concentration (top firms’ market share rises by 1.4–2.2 percentage points).  
-- **No Productivity Gains**: Unlike past technologies, AI shows no significant link to productivity (sales/worker or TFP), highlighting its role in expanding product scope over cost-cutting.

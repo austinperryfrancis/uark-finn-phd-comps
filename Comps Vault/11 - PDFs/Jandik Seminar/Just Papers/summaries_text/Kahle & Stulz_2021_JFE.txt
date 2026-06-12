@@ -1,7 +1,0 @@
-**Summary:**  
-The study investigates the surge in corporate payouts (dividends and repurchases) from 2000–2019 compared to 1971–1999. Aggregate real payouts tripled in the 2000s, with 37% of the increase attributed to higher corporate income and 63% to increased payout rates. Repurchases drove this growth, rising from 4.8% to 19.27% of operating income, while dividends remained stable. Firms in the 2000s were older, larger, and generated more free cash flow, prompting higher payouts. Despite concerns, reduced capital expenditures occurred uniformly across payers and non-payers, with non-payers redirecting savings to R&D. Regression models revealed that firm characteristics (size, age, cash holdings, leverage) explained 56–84% of payout rate increases, particularly post-2000. Additionally, payout sensitivity to free cash flow nearly doubled in the 2000s, suggesting heightened shareholder return pressures.
-
-**Key Takeaways:**  
-- **Payout Drivers:** 63% of the payout increase stemmed from higher payout rates (pre-2000: 19.19% of operating income; 2000s: 33.68%), while 37% came from income growth.  
-- **Role of Repurchases:** Repurchases surged from 4.8% to 19.27% of operating income, becoming the primary payout mechanism, while dividends remained flat (~14.4%).  
-- **Firm Characteristics:** Key factors explaining payout increases included firm size (coefficient: 0.015–0.036), cash holdings (0.24–0.45), and reduced leverage (−0.23 to −0.41). Post-2000, sensitivity to free cash flow rose sharply (coefficient increased by 0.106–0.20).

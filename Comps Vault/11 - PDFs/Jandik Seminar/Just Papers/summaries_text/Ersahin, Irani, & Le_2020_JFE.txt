@@ -1,7 +1,0 @@
-**Summary:**  
-The study examines how debt covenant violations influence resource allocation within firms using establishment-level data. When firms violate covenants, creditors gain control rights, prompting operational restructuring. The analysis reveals that violators reduce employment and investment, particularly in noncore business segments and less productive establishments. These establishments also face higher closure rates. The effects are more pronounced in firms with significant manager-shareholder agency conflicts and when lenders possess industry-specific expertise, suggesting creditors drive efficiency by reallocating resources to core, productive areas.
-
-**Key Takeaways:**  
-- **Noncore Business cuts**: Peripheral establishments see a 9.3 percentage point greater reduction in employment post-violation (β = -0.093).  
-- **Productivity Focus**: Unproductive units experience 10.7 percentage point larger employment declines (β = -0.107) and heightened closures.  
-- **Lender Expertise**: Creditors with industry experience amplify restructuring, underscoring their role in mitigating agency costs and improving efficiency.

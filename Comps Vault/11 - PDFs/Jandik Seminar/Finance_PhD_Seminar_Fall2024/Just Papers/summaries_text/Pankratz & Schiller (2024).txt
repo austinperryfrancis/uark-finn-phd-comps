@@ -1,7 +1,0 @@
-**Summary:**  
-This research investigates the impact of climate exposure on global supply chains, focusing on heat and floods. The study reveals that heat exposure at supplier locations reduces operating income for both suppliers and their customers, with a 0.6% quarterly decline in customer income per supplier heat day. When suppliers’ realized heat exposure exceeds prior expectations (based on historical data), customers are 7.4% more likely to terminate supplier relationships. This effect intensifies with repeated or severe climate signals and diminishes in countries with stronger climate adaptation measures. Replacement suppliers typically exhibit lower historical and projected heat exposure. Similar patterns are observed for flood risks, underscoring broader climate-driven supply chain vulnerabilities. The findings highlight adaptive strategies like inventory buffering, R&D investment, and supplier diversification.
-
-**Key Takeaways:**  
-- **Supplier Termination Risk:** A 7.4% increase in termination likelihood occurs when suppliers’ heat exposure surpasses historical expectations (*coefficient: 7.4%*).  
-- **Financial Impact:** Each supplier heat day reduces customer operating income by 0.6% quarterly (*coefficient: -0.6%*).  
-- **Adaptation Matters:** Countries with high climate adaptation readiness reduce termination likelihood, emphasizing the role of institutional resilience.

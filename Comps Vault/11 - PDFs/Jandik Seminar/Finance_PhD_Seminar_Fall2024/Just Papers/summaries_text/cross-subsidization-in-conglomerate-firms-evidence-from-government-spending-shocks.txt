@@ -1,9 +1,0 @@
-**Summary:**  
-This study investigates how conglomerate firms allocate investments in response to government spending shocks compared to standalone firms. Using industry-level federal spending data and segment-level financials (1977–2016), the authors find that government-dependent segments in conglomerates invest **0.9% less** per assets than matched standalone firms for a 1-standard-deviation increase in government spending. This underinvestment stems from cross-subsidization: low government-dependent segments within conglomerates increase investment by **1% of assets** when other high-dependent segments receive positive shocks, diverting resources inefficiently.  
-
-The cross-subsidization reduces operating performance, with subsidizing segments underperforming standalone peers by **8.7 percentage points** in profitability. Conglomerates with high government dependency also trade at an **8.1% diversification discount**, which intensifies during high-spending periods. Results hold robust after addressing endogeneity via an instrumental variable (Democratic control of government branches, coefficient **0.420***).
-
-**Key Takeaways:**  
-- **Reduced Investment Responsiveness**: Conglomerate segments invest **0.9% less** (per assets) than standalone firms for equivalent government spending shocks (1σ increase).  
-- **Cross-Subsidization Evidence**: Low-dependent segments boost investment by **1% of assets** (coefficient **0.198***) when high-dependent segments receive shocks, indicating resource redistribution.  
-- **Value Destruction**: Cross-subsidization correlates with an **8.1% diversification discount** (coefficient **-0.081***), worsening under high government spending.

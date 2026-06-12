@@ -1,9 +1,0 @@
-**Summary**  
-This study investigates how external governance pressures from product markets and takeover threats influence firms' debt structure choices. Using natural experiments—import tariff reductions (exogenous increases in product market competition) and state-level antitakeover laws (exogenous decreases in takeover pressure)—the authors find that firms substitute between governance mechanisms. Firms facing heightened competition (via tariff cuts) were 11% less likely to use bank loans over public debt, as product market discipline reduced the need for creditor governance. Conversely, firms insulated from takeovers (via antitakeover laws) were 26% more likely to choose bank loans, substituting creditor oversight for diminished external governance. Supporting this, loan covenant strictness increased by 10.6% after antitakeover laws and decreased by 4.3% post-tariff cuts, underscoring the dynamic adjustment of governance intensity.  
-
-Cross-sectional analyses revealed substitution effects were stronger in noncompetitive industries and relationship-driven sectors, where governance signals are critical. The findings highlight banks' unique role in providing flexible governance, particularly when alternative mechanisms weaken.  
-
-**Key Takeaways**  
-- **Substitution Effect**: Firms replace weakened governance mechanisms (e.g., reduced takeover threats) with stricter creditor oversight via bank loans (26% increase in bank loan likelihood post-antitakeover laws).  
-- **Covenant Adjustments**: Loan covenants tightened by 10.6% after antitakeover laws and loosened by 4.3% following tariff cuts, aligning creditor governance with external pressures.  
-- **Sector Sensitivity**: Effects were pronounced in noncompetitive industries (11% drop in bank loans post-tariff cuts) and relationship sectors, emphasizing context-dependent governance demands.

@@ -1,7 +1,0 @@
-**Summary:**  
-The study investigates peer effects in corporate capital structure decisions using a spatial econometrics framework that addresses identification challenges in prior research. By leveraging product-market similarity networks (Hoberg and Phillips, 2010–2016) instead of traditional industry classifications, the authors isolate strategic complementarity in leverage choices. They find significant peer effects: a 1% increase in peers’ leverage leads to an initial ~0.20% rise in a firm’s leverage, amplified by feedback loops within the network. This contrasts with earlier studies (e.g., Leary and Roberts, 2014), which likely overestimated effects due to methodological limitations like the reflection problem. Results are robust across models using exogenous shocks (equity returns, debt maturity) and suggest leverage is a strategic tool shaped by competitive dynamics.  
-
-**Key Takeaways:**  
-- **Moderate Peer Influence:** Peer-effect coefficients for leverage levels are ~0.20, indicating strategic complementarity where firms adjust debt in response to peers’ capital structures.  
-- **Network Precision Matters:** Product-similarity-based peer networks yield more accurate estimates than SIC codes, improving model fit and reducing bias.  
-- **Overestimation in Prior Work:** Traditional methods (e.g., 2SLS) likely inflated coefficients (e.g., near 1.0 in Leary and Roberts) by ignoring network intransitivity and feedback dynamics.

@@ -1,7 +1,0 @@
-**Summary:**  
-The study examines the significant increase in the marginal value of corporate cash holdings from the 1980s to the 2000s, rising from $0.61 to $1.12 per dollar. This trend is attributed to shifts in firm fundamentals and market dynamics, including heightened investment opportunities, cash-flow volatility, product market competition, and credit risk. Notably, the 1990s saw the largest increase, driven by R&D-intensive firms (coefficient +0.93 for 1990s) and industry competition, while the 2000s were influenced by credit spreads (coefficient +0.57). Firms with cash deficits faced slower adjustment speeds (SOA declined by 39% for constrained firms), indicating rising capital market frictions. Agency costs and governance metrics had limited explanatory power, emphasizing the role of precautionary motives and external financing constraints.
-
-**Key Takeaways:**  
-- **Cash value surged over time:** $0.61 (1980s), $1.04 (1990s), $1.12 (2000s), with a 2.5-cent annual increase.  
-- **Primary drivers:** Investment opportunities (1990s: +0.93 coefficient), cash-flow volatility (+0.49 for 1990s), credit spreads (2000s: +0.57), and reduced diversification.  
-- **Adjustment delays:** Speed of cash adjustment (SOA) fell by 39% for cash-deficit firms in the 2000s, highlighting capital market frictions.

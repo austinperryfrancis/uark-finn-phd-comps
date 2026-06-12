@@ -1,7 +1,0 @@
-**Summary:**  
-This research examines how institutional investor coordination, termed "cliques," impacts corporate governance. Cliques are defined as interconnected groups of investors with shared ownership (≥5% stakes in common firms). Using data from 1980–2013 and the 2003 mutual fund scandal as a natural experiment, the study finds that cliques enhance governance via "voice": a one standard deviation increase in clique ownership more than doubles votes against low-quality management proposals (6.2 percentage points above the 5.8% average). However, coordination weakens governance via "exit." Clique members exit positions more slowly, and firms with high clique ownership see reduced responsiveness to liquidity shocks (e.g., decimalization led to a 0.5 lower Tobin’s Q for high-clique firms). Cliques also shape corporate policies, with specialized groups predicting outcomes like dividend initiations (+4% probability).
-
-**Key Takeaways:**  
-1. **Coordination Strengthens Governance via Voice:** Cliques increase opposition to poor management proposals; a 1 SD rise in clique ownership boosts votes against by 6.2 percentage points.  
-2. **Coordination Weakens Governance via Exit:** Clique ownership reduces the threat of exit, slowing trading responses. Post-decimalization, high-clique firms saw a 0.5 lower Q value.  
-3. **Policy Influence:** Specialized cliques predict corporate actions (e.g., dividend initiations rise 4% with a 1 SD increase in dividend-focused clique ownership).
